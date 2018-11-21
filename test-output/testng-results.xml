@@ -1,0 +1,2958 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="43" failed="0" ignored="0" total="44" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Button Add Rule element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Filter Search to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully entered Management Product Level in Filter Search textbox.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for invisibility of Add Filters Progress Bar]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Management Product Level checkbox]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Add Icon to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Add Icon element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Commercial Cards (30400100000) checkbox to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Commercial Cards (30400100000) checkbox]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Commercial Cards (30400100000) filter on Home Page to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[RegTC44 is PASS]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC1 is SKIPPED]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC10 is SKIPPED]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC11 is SKIPPED]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC12 is SKIPPED]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC13 is SKIPPED]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC14 is SKIPPED]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC15 is SKIPPED]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC16 is SKIPPED]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC17 is SKIPPED]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC18 is SKIPPED]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC19 is SKIPPED]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC2 is SKIPPED]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC20 is SKIPPED]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC21 is SKIPPED]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC22 is SKIPPED]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC23 is SKIPPED]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC24 is SKIPPED]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC25 is SKIPPED]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC26 is SKIPPED]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC27 is SKIPPED]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC28 is SKIPPED]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC29 is SKIPPED]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC3 is SKIPPED]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC30 is SKIPPED]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC31 is SKIPPED]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC32 is SKIPPED]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC33 is SKIPPED]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC34 is SKIPPED]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC35 is SKIPPED]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC36 is SKIPPED]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC37 is SKIPPED]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC38 is SKIPPED]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC39 is SKIPPED]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC4 is SKIPPED]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC40 is SKIPPED]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC41 is SKIPPED]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC42 is SKIPPED]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC43 is SKIPPED]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC5 is SKIPPED]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC6 is SKIPPED]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC7 is SKIPPED]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC8 is SKIPPED]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC9 is SKIPPED]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29300" started-at="2018-11-21T19:46:13Z" finished-at="2018-11-21T19:46:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29300" started-at="2018-11-21T19:46:13Z" finished-at="2018-11-21T19:46:43Z">
+      <class name="testcases.Regression">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testcases.Regression@2b552920]" name="setUp" is-config="true" duration-ms="547" started-at="2018-11-21T14:46:13Z" finished-at="2018-11-21T14:46:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="RegTC44(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920]" name="RegTC44" duration-ms="24739" started-at="2018-11-21T14:46:14Z" data-provider="Regression" finished-at="2018-11-21T14:46:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Management Product Level, CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=PASS, Category=, AddRule=Management Product Level, Level1=, Filtername=Commercial Cards (30400100000), Filtername2=, Filtername3=, VerifyChip=Commercial Cards (30400100000), TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Facility Global Finance Management Information System" from Product Category
+3. Click Add filters (+) and select "Best Efforts Distribution (L3 - 80100100000)".
+4. Click close of the dialog
+5. Chip "Best Efforts Distribution (L4 - 80100100010)" should be populated  , ExpectedResult=a.Facility Global Finance Management Information System dialog should have the value "Best Efforts Distribution (L3 - 80100100000)". 
+b. Chip for "Best Efforts Distribution (L4 - 80100100010)" should be displayed in main screen}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Button Add Rule element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Filter Search to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully entered Management Product Level in Filter Search textbox.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for invisibility of Add Filters Progress Bar]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Management Product Level checkbox]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Add Icon to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Add Icon element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Commercial Cards (30400100000) checkbox to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Commercial Cards (30400100000) checkbox]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Commercial Cards (30400100000) filter on Home Page to be present on page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- RegTC44 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Regression@2b552920]" name="reporterDataResults" is-config="true" duration-ms="1910" started-at="2018-11-21T14:46:39Z" finished-at="2018-11-21T14:46:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=RegTC44 status=SUCCESS method=Regression.RegTC44(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920] output=Successfully waited for Button Add Rule to be present on page]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[RegTC44 is PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="SKIP" signature="SanityTC1(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920]" name="SanityTC1" duration-ms="5" started-at="2018-11-21T14:46:41Z" data-provider="Regression" finished-at="2018-11-21T14:46:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Independent Risk Unit Credit Organization , CaseToRun=N, Module=Portfolio, Pass/Fail/Skip=SKIP, Category=, AddRule=Independent Risk Unit Credit Organization, Level1=, Filtername=FIRM|GIRM, Filtername2=, Filtername3=, VerifyChip=, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Independent Risk Unit Credit Organization" from Business Unit Category
+3. Click Add filters (+) and select "FIRM" & "GIRM", ExpectedResult="Independent Risk Unit Credit Organization" dialog should have the value "FIRM" and "GIRM"}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Independent Risk Unit Credit Organization 's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Independent Risk Unit Credit Organization ]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Independent Risk Unit Credit Organization 's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Independent Risk Unit Credit Organization 
+	at testcases.Regression.SanityTC1(Regression.java:52)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SanityTC1 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Regression@2b552920]" name="reporterDataResults" is-config="true" duration-ms="1" started-at="2018-11-21T14:46:41Z" finished-at="2018-11-21T14:46:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC1 status=SKIP method=Regression.SanityTC1(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC1 is SKIPPED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="SKIP" signature="SanityTC10(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920]" name="SanityTC10" duration-ms="6" started-at="2018-11-21T14:46:41Z" data-provider="Regression" finished-at="2018-11-21T14:46:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Approving Unit Geography, CaseToRun=N, Module=Portfolio, Pass/Fail/Skip=SKIP, Category=, AddRule=Approving Unit Geography, Level1=, Filtername=North America (L1 - 200), Filtername2=, Filtername3=, VerifyChip=CANADA, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Approving Unit Geography" from Geography Category
+3. Click Add filters (+) and select "North America (L1 - 200)"
+4.Close the dialog, ExpectedResult=a. "Approving Unit Geography" dialog should have the value "North America (L1 - 200)"
+b. Chip in the main screen after dialog close should display "CANADA (L4 -CA)", "SAINT PIERRE AND MIQUELON (L4 - PM)", "UNITED STATES OF AMERICA (THE) (L4 - US)"}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Approving Unit Geography's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Approving Unit Geography]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Approving Unit Geography's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Approving Unit Geography
+	at testcases.Regression.SanityTC10(Regression.java:237)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SanityTC10 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Regression@2b552920]" name="reporterDataResults" is-config="true" duration-ms="0" started-at="2018-11-21T14:46:41Z" finished-at="2018-11-21T14:46:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC10 status=SKIP method=Regression.SanityTC10(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC10 is SKIPPED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="SKIP" signature="SanityTC11(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920]" name="SanityTC11" duration-ms="4" started-at="2018-11-21T14:46:41Z" data-provider="Regression" finished-at="2018-11-21T14:46:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Extending Unit Geography , CaseToRun=N, Module=Portfolio, Pass/Fail/Skip=SKIP, Category=, AddRule=Extending Unit Geography, Level1=, Filtername=North America (L1 - 200), Filtername2=, Filtername3=, VerifyChip=CANADA, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Extending Unit Geography" from Geography Category
+3. Click Add filters (+) and select "North America (L1 - 200)"
+4.Close the dialog, ExpectedResult=a "Extending Unit Geography" dialog should have the value "North America (L1 - 200)"
+b. Chip in the main screen after dialog close should display "CANADA (L4 -CA)", "SAINT PIERRE AND MIQUELON (L4 - PM)", "UNITED STATES OF AMERICA (THE) (L4 - US)"}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Extending Unit Geography 's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Extending Unit Geography ]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Extending Unit Geography 's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Extending Unit Geography 
+	at testcases.Regression.SanityTC11(Regression.java:256)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SanityTC11 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Regression@2b552920]" name="reporterDataResults" is-config="true" duration-ms="0" started-at="2018-11-21T14:46:41Z" finished-at="2018-11-21T14:46:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC11 status=SKIP method=Regression.SanityTC11(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC11 is SKIPPED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="SKIP" signature="SanityTC12(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920]" name="SanityTC12" duration-ms="3" started-at="2018-11-21T14:46:41Z" data-provider="Regression" finished-at="2018-11-21T14:46:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Global Organization Code Enriched Geography, CaseToRun=N, Module=Portfolio, Pass/Fail/Skip=SKIP, Category=, AddRule=Global Organization Code Enriched Geography, Level1=, Filtername=AUSTRALIA, Filtername2=, Filtername3=, VerifyChip=, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Global Organization Code Enriched Geography" from Geography Category
+3. Click Add filters (+) and select "AUSTRALIA", ExpectedResult="Global Organization Code Enriched Geography" dialog should have the value AUSTRALIA}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Global Organization Code Enriched Geography's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Global Organization Code Enriched Geography]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Global Organization Code Enriched Geography's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Global Organization Code Enriched Geography
+	at testcases.Regression.SanityTC12(Regression.java:274)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SanityTC12 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Regression@2b552920]" name="reporterDataResults" is-config="true" duration-ms="1" started-at="2018-11-21T14:46:41Z" finished-at="2018-11-21T14:46:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC12 status=SKIP method=Regression.SanityTC12(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC12 is SKIPPED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="SKIP" signature="SanityTC13(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920]" name="SanityTC13" duration-ms="2" started-at="2018-11-21T14:46:41Z" data-provider="Regression" finished-at="2018-11-21T14:46:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Relationship Geography At Risk, CaseToRun=N, Module=Portfolio, Pass/Fail/Skip=SKIP, Category=, AddRule=Relationship Geography at Risk, Level1=, Filtername=North America (L1 - 200), Filtername2=, Filtername3=, VerifyChip=CANADA, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Relationship Geography At Risk" from Geography Category
+3. Click Add filters (+) and select "North America (L1 - 200)"
+4.Close the dialog
+, ExpectedResult=a. "Relationship Geography At Risk" dialog have the value "North America (L1 - 200)"
+b. Chip in the main screen after dialog close should display "CANADA (L4 -CA)", "SAINT PIERRE AND MIQUELON (L4 - PM)", "UNITED STATES OF AMERICA (THE) (L4 - US)"
+}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Relationship Geography At Risk's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Relationship Geography At Risk]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Relationship Geography At Risk's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Relationship Geography At Risk
+	at testcases.Regression.SanityTC13(Regression.java:293)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SanityTC13 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Regression@2b552920]" name="reporterDataResults" is-config="true" duration-ms="1" started-at="2018-11-21T14:46:41Z" finished-at="2018-11-21T14:46:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC13 status=SKIP method=Regression.SanityTC13(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC13 is SKIPPED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="SKIP" signature="SanityTC14(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920]" name="SanityTC14" duration-ms="6" started-at="2018-11-21T14:46:41Z" data-provider="Regression" finished-at="2018-11-21T14:46:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Obligor Geography At Risk, CaseToRun=N, Module=Portfolio, Pass/Fail/Skip=SKIP, Category=, AddRule=Obligor Geography at Risk, Level1=, Filtername=North America (L1 - 200), Filtername2=, Filtername3=, VerifyChip=CANADA, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Obligor Geography At Risk" from Geography Category
+3. Click Add filters (+) and select "North America (L1 - 200)"
+4.Close the dialog
+, ExpectedResult=a. "Obligor Geography At Risk" dialog should have the value "North America (L1 - 200)"
+b. Chip in the main screen after dialog close should display "CANADA (L4 -CA)", "SAINT PIERRE AND MIQUELON (L4 - PM)", "UNITED STATES OF AMERICA (THE) (L4 - US)"
+}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Obligor Geography At Risk's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Obligor Geography At Risk]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Obligor Geography At Risk's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Obligor Geography At Risk
+	at testcases.Regression.SanityTC14(Regression.java:312)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SanityTC14 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Regression@2b552920]" name="reporterDataResults" is-config="true" duration-ms="1" started-at="2018-11-21T14:46:41Z" finished-at="2018-11-21T14:46:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC14 status=SKIP method=Regression.SanityTC14(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC14 is SKIPPED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="SKIP" signature="SanityTC15(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920]" name="SanityTC15" duration-ms="8" started-at="2018-11-21T14:46:41Z" data-provider="Regression" finished-at="2018-11-21T14:46:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Relationship Risk Management Industry, CaseToRun=N, Module=Portfolio, Pass/Fail/Skip=SKIP, Category=, AddRule=Relationship Risk Management Industry, Level1=, Filtername=Edu - Primary School(L3 - 921030), Filtername2=, Filtername3=, VerifyChip=Edu - Primary School(L3 - 921030), TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Relationship Risk Management Industry" from "Industry & Support" Category
+3. Click Add filters (+) and select "Edu - Primary School(L3 - 921030)"
+4. Click close of the dialog
+5. Chip " Edu - Schools Grade K-12 - Private (L4 - 92103020)" should be populated  , ExpectedResult=a. "Relationship Risk Management Industry" dialog should have the value "Edu - Primary School(L3 - 921030)". 
+b. Chip for " Edu - Schools Grade K-12 - Private (L4 - 92103020)" should be displayed in main screen}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Relationship Risk Management Industry's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Relationship Risk Management Industry]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Relationship Risk Management Industry's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Relationship Risk Management Industry
+	at testcases.Regression.SanityTC15(Regression.java:331)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SanityTC15 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Regression@2b552920]" name="reporterDataResults" is-config="true" duration-ms="1" started-at="2018-11-21T14:46:41Z" finished-at="2018-11-21T14:46:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC15 status=SKIP method=Regression.SanityTC15(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC15 is SKIPPED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="SKIP" signature="SanityTC16(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920]" name="SanityTC16" duration-ms="18" started-at="2018-11-21T14:46:41Z" data-provider="Regression" finished-at="2018-11-21T14:46:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Obligor Risk Management Industry, CaseToRun=N, Module=Portfolio, Pass/Fail/Skip=SKIP, Category=, AddRule=Obligor Risk Management Industry, Level1=, Filtername= Conglomerates (L1 -96), Filtername2=, Filtername3=, VerifyChip=Conglomerates, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Obligor Risk Management Industry" from "Industry & Support" Category
+3. Click Add filters (+) and select " Conglomerates (L1 -96)"
+4. Click close of the dialog
+5. Chip " Conglomerates  (L4 - 90501010)" should be populated  , ExpectedResult=a. "Obligor Risk Management Industry" dialog should have the value "Conglomerates (L1 -96)". 
+b. Chip for " Conglomerates  (L4 - 90501010)" should be displayed in main screen}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Obligor Risk Management Industry's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Obligor Risk Management Industry]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Obligor Risk Management Industry's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Obligor Risk Management Industry
+	at testcases.Regression.SanityTC16(Regression.java:350)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SanityTC16 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Regression@2b552920]" name="reporterDataResults" is-config="true" duration-ms="1" started-at="2018-11-21T14:46:41Z" finished-at="2018-11-21T14:46:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC16 status=SKIP method=Regression.SanityTC16(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC16 is SKIPPED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="SKIP" signature="SanityTC17(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920]" name="SanityTC17" duration-ms="6" started-at="2018-11-21T14:46:41Z" data-provider="Regression" finished-at="2018-11-21T14:46:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Obligor Support Type, CaseToRun=N, Module=Portfolio, Pass/Fail/Skip=SKIP, Category=, AddRule=Obligor Support Type, Level1=, Filtername=Full Faith and Credit, Filtername2=, Filtername3=, VerifyChip=Full Faith and Credit, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Obligor Support Type" from "Industry & Support" Category
+3. Click Add filters (+) and select "Full Faith and Credit"
+4. Verify if this dailog display Radio Buttons
+5. Click close of the dialog
+6. Chip "Full Faith and Credit" should be populated  , ExpectedResult=a. "Obligor Support Type" dialog should have radio buttons alone and the value "Full Faith and Credit". 
+b. Chip for " Full Faith and Credit" should be displayed in main screen
+}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Obligor Support Type's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Obligor Support Type]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Obligor Support Type's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Obligor Support Type
+	at testcases.Regression.SanityTC17(Regression.java:369)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SanityTC17 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Regression@2b552920]" name="reporterDataResults" is-config="true" duration-ms="0" started-at="2018-11-21T14:46:41Z" finished-at="2018-11-21T14:46:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC17 status=SKIP method=Regression.SanityTC17(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC17 is SKIPPED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="SKIP" signature="SanityTC18(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920]" name="SanityTC18" duration-ms="9" started-at="2018-11-21T14:46:41Z" data-provider="Regression" finished-at="2018-11-21T14:46:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=CAGID , CaseToRun=N, Module=Portfolio, Pass/Fail/Skip=SKIP, Category=, AddRule=CAGID, Level1=, Filtername=9000311437,1009565678, Filtername2=, Filtername3=, VerifyChip=, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1. Enter "9000311437,1009565678" in the textArea
+2. Click Review, ExpectedResult=Top Exposures dialog should be displayed with results}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[CAGID 's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of CAGID ]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: CAGID 's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of CAGID 
+	at testcases.Regression.SanityTC18(Regression.java:388)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SanityTC18 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Regression@2b552920]" name="reporterDataResults" is-config="true" duration-ms="2" started-at="2018-11-21T14:46:41Z" finished-at="2018-11-21T14:46:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC18 status=SKIP method=Regression.SanityTC18(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC18 is SKIPPED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="SKIP" signature="SanityTC19(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920]" name="SanityTC19" duration-ms="1" started-at="2018-11-21T14:46:41Z" data-provider="Regression" finished-at="2018-11-21T14:46:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Relationship Name #1, CaseToRun=N, Module=Portfolio, Pass/Fail/Skip=SKIP, Category=, AddRule=Relationship Name, Level1=, Filtername=(IZ)QUEENCO LIMITED (1009174296), Filtername2=, Filtername3=, VerifyChip=(IZ)QUEENCO LIMITED (1009174296), TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Relationship Name" from Customer Category
+3. Click Add filters (+) and select "(IZ)QUEENCO LIMITED (1009174296)", ExpectedResult="Relationship Name" dialog should have the value "(IZ)QUEENCO LIMITED (1009174296)"}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Relationship Name #1's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Relationship Name #1]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Relationship Name #1's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Relationship Name #1
+	at testcases.Regression.SanityTC19(Regression.java:407)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SanityTC19 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Regression@2b552920]" name="reporterDataResults" is-config="true" duration-ms="1" started-at="2018-11-21T14:46:41Z" finished-at="2018-11-21T14:46:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC19 status=SKIP method=Regression.SanityTC19(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC19 is SKIPPED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="SKIP" signature="SanityTC2(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920]" name="SanityTC2" duration-ms="3" started-at="2018-11-21T14:46:41Z" data-provider="Regression" finished-at="2018-11-21T14:46:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Independent Risk Unit Credit Coverage Area, CaseToRun=N, Module=Portfolio, Pass/Fail/Skip=SKIP, Category=, AddRule=Independent Risk Unit Credit Coverage Area, Level1=, Filtername=Banks|SPM, Filtername2=, Filtername3=, VerifyChip=, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Independent Risk Unit - Credit Coverage Area"  from "Business Unit" Category
+3. Click Add filters (+) and select Banks, SPM, ExpectedResult="Independent Risk Unit Credit Coverage Area" dialog should have the values Banks, SPM}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Independent Risk Unit Credit Coverage Area's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Independent Risk Unit Credit Coverage Area]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Independent Risk Unit Credit Coverage Area's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Independent Risk Unit Credit Coverage Area
+	at testcases.Regression.SanityTC2(Regression.java:88)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SanityTC2 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Regression@2b552920]" name="reporterDataResults" is-config="true" duration-ms="11" started-at="2018-11-21T14:46:41Z" finished-at="2018-11-21T14:46:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC2 status=SKIP method=Regression.SanityTC2(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC2 is SKIPPED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="SKIP" signature="SanityTC20(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920]" name="SanityTC20" duration-ms="13" started-at="2018-11-21T14:46:41Z" data-provider="Regression" finished-at="2018-11-21T14:46:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Relationship Name #2, CaseToRun=N, Module=Portfolio, Pass/Fail/Skip=SKIP, Category=, AddRule=Relationship Name, Level1=, Filtername=AAREX INDIA (1010567684), Filtername2=, Filtername3=, VerifyChip=AAREX INDIA (1010567684), TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Relationship Name" from Customer Category
+3. Click Add filters (+) and search for "India"
+4. Select "AAREX INDIA (1010567684)", ExpectedResult="Relationship Name" Dialog should have the value "AAREX INDIA (1010567684)" in the search result.}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Relationship Name #2's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Relationship Name #2]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Relationship Name #2's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Relationship Name #2
+	at testcases.Regression.SanityTC20(Regression.java:426)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SanityTC20 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Regression@2b552920]" name="reporterDataResults" is-config="true" duration-ms="2" started-at="2018-11-21T14:46:41Z" finished-at="2018-11-21T14:46:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC20 status=SKIP method=Regression.SanityTC20(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC20 is SKIPPED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="SKIP" signature="SanityTC21(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920]" name="SanityTC21" duration-ms="79" started-at="2018-11-21T14:46:41Z" data-provider="Regression" finished-at="2018-11-21T14:46:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=GFCID, CaseToRun=N, Module=Portfolio, Pass/Fail/Skip=SKIP, Category=, AddRule=GFCID, Level1=, Filtername=0000071315,0000071316, Filtername2=, Filtername3=, VerifyChip=, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1. Enter "0000071315, 0000071316" in the textArea
+2. Click Review, ExpectedResult=Top Exposures dialog should be displayed with results}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[GFCID's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of GFCID]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: GFCID's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of GFCID
+	at testcases.Regression.SanityTC21(Regression.java:444)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SanityTC21 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Regression@2b552920]" name="reporterDataResults" is-config="true" duration-ms="2" started-at="2018-11-21T14:46:42Z" finished-at="2018-11-21T14:46:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC21 status=SKIP method=Regression.SanityTC21(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC21 is SKIPPED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="SKIP" signature="SanityTC22(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920]" name="SanityTC22" duration-ms="2" started-at="2018-11-21T14:46:42Z" data-provider="Regression" finished-at="2018-11-21T14:46:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=CIS Level 2 Client Owner, CaseToRun=N, Module=Portfolio, Pass/Fail/Skip=SKIP, Category=, AddRule=CIS Level 2 Client Owner, Level1=, Filtername=CITI, Filtername2=, Filtername3=, VerifyChip=CITI, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1. Click Add Rule
+2. Select "CIS Level 2 Client Owner" from Customer Category
+3. Click Add filters (+) and select "CITI", ExpectedResult=Level 2 Client Owner dialog should have the value "CITI".
+}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[CIS Level 2 Client Owner's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of CIS Level 2 Client Owner]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: CIS Level 2 Client Owner's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of CIS Level 2 Client Owner
+	at testcases.Regression.SanityTC22(Regression.java:463)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SanityTC22 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Regression@2b552920]" name="reporterDataResults" is-config="true" duration-ms="1" started-at="2018-11-21T14:46:42Z" finished-at="2018-11-21T14:46:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC22 status=SKIP method=Regression.SanityTC22(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC22 is SKIPPED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="SKIP" signature="SanityTC23(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920]" name="SanityTC23" duration-ms="3" started-at="2018-11-21T14:46:42Z" data-provider="Regression" finished-at="2018-11-21T14:46:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=CIS Level 3 Client Owner, CaseToRun=N, Module=Portfolio, Pass/Fail/Skip=SKIP, Category=, AddRule=CIS Level 3 Client Owner, Level1=, Filtername=MARKETS, Filtername2=, Filtername3=, VerifyChip=MARKETS, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1. Click Add Rule
+2. Select "CIS Level 3 Client Owner" from Customer Category
+3. Click Add filters (+) and select "MARKETS", ExpectedResult=Level 3 Client Owner dialog should have the value "MARKETS".}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[CIS Level 3 Client Owner's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of CIS Level 3 Client Owner]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: CIS Level 3 Client Owner's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of CIS Level 3 Client Owner
+	at testcases.Regression.SanityTC23(Regression.java:482)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SanityTC23 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Regression@2b552920]" name="reporterDataResults" is-config="true" duration-ms="0" started-at="2018-11-21T14:46:42Z" finished-at="2018-11-21T14:46:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC23 status=SKIP method=Regression.SanityTC23(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC23 is SKIPPED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="SKIP" signature="SanityTC24(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920]" name="SanityTC24" duration-ms="9" started-at="2018-11-21T14:46:42Z" data-provider="Regression" finished-at="2018-11-21T14:46:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Intercompany, CaseToRun=N, Module=Portfolio, Pass/Fail/Skip=SKIP, Category=, AddRule=Intercompany, Level1=, Filtername=Yes, Filtername2=, Filtername3=, VerifyChip=, TestCaseDescription =check whether data the top exposure dialog is displayed, Steps to execute=1.Click Add Rule
+2. Select "Intercompany " from Facility Category
+3. select Yes and click Review Button on the right top corner, ExpectedResult=Top Exposures dialog box should be displayed}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Intercompany's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Intercompany]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Intercompany's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Intercompany
+	at testcases.Regression.SanityTC24(Regression.java:500)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SanityTC24 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Regression@2b552920]" name="reporterDataResults" is-config="true" duration-ms="1" started-at="2018-11-21T14:46:42Z" finished-at="2018-11-21T14:46:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC24 status=SKIP method=Regression.SanityTC24(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC24 is SKIPPED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="SKIP" signature="SanityTC25(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920]" name="SanityTC25" duration-ms="7" started-at="2018-11-21T14:46:42Z" data-provider="Regression" finished-at="2018-11-21T14:46:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Exclude Liquidity Managed , CaseToRun=N, Module=Portfolio, Pass/Fail/Skip=SKIP, Category=, AddRule=Exclude Liquidity Managed, Level1=, Filtername=Yes, Filtername2=, Filtername3=, VerifyChip=, TestCaseDescription =check whether data the top exposure dialog is displayed, Steps to execute=1.Click Add Rule
+2. Select "Exclude Liquidity Managed" from Facility Category
+3. select Yes and click Review Button on the right top corner, ExpectedResult=Top Exposures dialog box should be displayed}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Exclude Liquidity Managed 's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Exclude Liquidity Managed ]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Exclude Liquidity Managed 's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Exclude Liquidity Managed 
+	at testcases.Regression.SanityTC25(Regression.java:518)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SanityTC25 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Regression@2b552920]" name="reporterDataResults" is-config="true" duration-ms="0" started-at="2018-11-21T14:46:42Z" finished-at="2018-11-21T14:46:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC25 status=SKIP method=Regression.SanityTC25(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC25 is SKIPPED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="SKIP" signature="SanityTC26(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920]" name="SanityTC26" duration-ms="2" started-at="2018-11-21T14:46:42Z" data-provider="Regression" finished-at="2018-11-21T14:46:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Exclude Fronting, CaseToRun=N, Module=Portfolio, Pass/Fail/Skip=SKIP, Category=, AddRule=Exclude Fronting, Level1=, Filtername=Yes, Filtername2=, Filtername3=, VerifyChip=, TestCaseDescription =check whether data the top exposure dialog is displayed, Steps to execute=1.Click Add Rule
+2. Select "Exclude Fronting" from Facility Category
+3. select Yes and click Review Button on the right top corner, ExpectedResult=Top Exposures dialog box should be displayed}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Exclude Fronting's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Exclude Fronting]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Exclude Fronting's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Exclude Fronting
+	at testcases.Regression.SanityTC26(Regression.java:536)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SanityTC26 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Regression@2b552920]" name="reporterDataResults" is-config="true" duration-ms="1" started-at="2018-11-21T14:46:42Z" finished-at="2018-11-21T14:46:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC26 status=SKIP method=Regression.SanityTC26(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC26 is SKIPPED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="SKIP" signature="SanityTC27(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920]" name="SanityTC27" duration-ms="3" started-at="2018-11-21T14:46:42Z" data-provider="Regression" finished-at="2018-11-21T14:46:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Facility Long Description, CaseToRun=N, Module=Portfolio, Pass/Fail/Skip=SKIP, Category=, AddRule=Facility Long Description, Level1=, Filtername=BILLS NEGOTIATED|CHEQUES PURCHASED, Filtername2=, Filtername3=, VerifyChip=BILLS NEGOTIATED|CHEQUES PURCHASED, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Facility Long Description" from Facility Category
+3. Click Add filters (+) and select "BILLS NEGOTIATED" , "CHEQUES PURCHASED" , ExpectedResult="Facility Long Description" dialog should have the value "BILLS NEGOTIATED" , "CHEQUES PURCHASED" }]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Facility Long Description's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Facility Long Description]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Facility Long Description's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Facility Long Description
+	at testcases.Regression.SanityTC27(Regression.java:555)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SanityTC27 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Regression@2b552920]" name="reporterDataResults" is-config="true" duration-ms="1" started-at="2018-11-21T14:46:42Z" finished-at="2018-11-21T14:46:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC27 status=SKIP method=Regression.SanityTC27(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC27 is SKIPPED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="SKIP" signature="SanityTC28(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920]" name="SanityTC28" duration-ms="2" started-at="2018-11-21T14:46:42Z" data-provider="Regression" finished-at="2018-11-21T14:46:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=GFRN, CaseToRun=N, Module=Portfolio, Pass/Fail/Skip=SKIP, Category=, AddRule=GFRN, Level1=, Filtername=BR0108620100055,BW1352713-1, Filtername2=, Filtername3=, VerifyChip=, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1. Enter "BR0108620100055, BW1352713-1" in the textArea
+2. Click Review, ExpectedResult=Top Exposures dialog should be displayed with results}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[GFRN's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of GFRN]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: GFRN's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of GFRN
+	at testcases.Regression.SanityTC28(Regression.java:573)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SanityTC28 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Regression@2b552920]" name="reporterDataResults" is-config="true" duration-ms="0" started-at="2018-11-21T14:46:42Z" finished-at="2018-11-21T14:46:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC28 status=SKIP method=Regression.SanityTC28(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC28 is SKIPPED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="SKIP" signature="SanityTC29(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920]" name="SanityTC29" duration-ms="2" started-at="2018-11-21T14:46:42Z" data-provider="Regression" finished-at="2018-11-21T14:46:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Classification Status, CaseToRun=N, Module=Portfolio, Pass/Fail/Skip=SKIP, Category=, AddRule=Classification Status, Level1=, Filtername=Pass|Loss, Filtername2=, Filtername3=, VerifyChip=Pass|Loss, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Classification Status"  from Facility Category
+3. Click Add filters (+) and select "Pass", "Loss" , ExpectedResult="Classification Status" dialog should have the value "Pass", "Loss" 
+}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Classification Status's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Classification Status]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Classification Status's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Classification Status
+	at testcases.Regression.SanityTC29(Regression.java:592)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SanityTC29 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Regression@2b552920]" name="reporterDataResults" is-config="true" duration-ms="3" started-at="2018-11-21T14:46:42Z" finished-at="2018-11-21T14:46:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC29 status=SKIP method=Regression.SanityTC29(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC29 is SKIPPED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="SKIP" signature="SanityTC3(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920]" name="SanityTC3" duration-ms="6" started-at="2018-11-21T14:46:42Z" data-provider="Regression" finished-at="2018-11-21T14:46:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Independent Risk Unit, CaseToRun=N, Module=Portfolio, Pass/Fail/Skip=SKIP, Category=, AddRule=Independent Risk Unit, Level1=, Filtername=AS AGENT REPO (300171)|APEMCT-HK (102147), Filtername2=, Filtername3=, VerifyChip=, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Independent Risk Unit" from Business Unit Category
+3. Click Add filters (+) and select "AS AGENT REPO (300171)" from FIRM & "APEMCT-HK (102147)" from GIRM, ExpectedResult=Independent Risk Unit dialog should have the value "AS AGENT REPO (300171)" in FIRM & "APEMCT-HK (102147)" in GIRM}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Independent Risk Unit's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Independent Risk Unit]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Independent Risk Unit's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Independent Risk Unit
+	at testcases.Regression.SanityTC3(Regression.java:106)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SanityTC3 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Regression@2b552920]" name="reporterDataResults" is-config="true" duration-ms="2" started-at="2018-11-21T14:46:42Z" finished-at="2018-11-21T14:46:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC3 status=SKIP method=Regression.SanityTC3(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC3 is SKIPPED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="SKIP" signature="SanityTC30(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920]" name="SanityTC30" duration-ms="3" started-at="2018-11-21T14:46:42Z" data-provider="Regression" finished-at="2018-11-21T14:46:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Leveraged Lending Exposures, CaseToRun=N, Module=Portfolio, Pass/Fail/Skip=SKIP, Category=, AddRule=Leveraged Lending Exposures, Level1=, Filtername=Direct Leveraged Lending, Core Diversified exposure, Filtername2=, Filtername3=, VerifyChip=Direct Leveraged Lending, Core Diversified exposure, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Leveraged Lending Exposures" from Facility Category
+3. Click Add filters (+) and select "Direct Leveraged Lending, Core Diversified exposure", ExpectedResult="Leveraged Lending Exposures" dialog should have the value  "Direct Leveraged Lending, Core Diversified exposure"}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Leveraged Lending Exposures's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Leveraged Lending Exposures]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Leveraged Lending Exposures's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Leveraged Lending Exposures
+	at testcases.Regression.SanityTC30(Regression.java:611)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SanityTC30 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Regression@2b552920]" name="reporterDataResults" is-config="true" duration-ms="1" started-at="2018-11-21T14:46:42Z" finished-at="2018-11-21T14:46:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC30 status=SKIP method=Regression.SanityTC30(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC30 is SKIPPED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="SKIP" signature="SanityTC31(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920]" name="SanityTC31" duration-ms="2" started-at="2018-11-21T14:46:42Z" data-provider="Regression" finished-at="2018-11-21T14:46:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Credit Program Specialized Product Name, CaseToRun=N, Module=Portfolio, Pass/Fail/Skip=SKIP, Category=, AddRule=Credit Program Specialized Product Name, Level1=, Filtername=EAF|ILOC, Filtername2=, Filtername3=, VerifyChip=EAF|ILOC, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Credit Program Specialized Product Name" from Facility Category
+3. Click Add filters (+) and select "EAF" , "ILOC" , ExpectedResult="Credit Program Specialized Product Name" dialog should have the value "EAF" , ILOC" }]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Credit Program Specialized Product Name's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Credit Program Specialized Product Name]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Credit Program Specialized Product Name's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Credit Program Specialized Product Name
+	at testcases.Regression.SanityTC31(Regression.java:630)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SanityTC31 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Regression@2b552920]" name="reporterDataResults" is-config="true" duration-ms="1" started-at="2018-11-21T14:46:42Z" finished-at="2018-11-21T14:46:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC31 status=SKIP method=Regression.SanityTC31(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC31 is SKIPPED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="SKIP" signature="SanityTC32(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920]" name="SanityTC32" duration-ms="8" started-at="2018-11-21T14:46:42Z" data-provider="Regression" finished-at="2018-11-21T14:46:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=PB Product Program, CaseToRun=N, Module=Portfolio, Pass/Fail/Skip=SKIP, Category=, AddRule=PB Product Program, Level1=, Filtername=Law Firm Finance|Lawyer Financing, Filtername2=, Filtername3=, VerifyChip=Law Firm Finance|Lawyer Financing, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "PB Product Program" from Facility Category
+3. Click Add filters (+) and select "Law Firm Finance", "Lawyer Financing", ExpectedResult="PB Product Program" dialog should have the value  "Law Firm Finance", "Lawyer Financing"}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[PB Product Program's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of PB Product Program]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: PB Product Program's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of PB Product Program
+	at testcases.Regression.SanityTC32(Regression.java:649)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SanityTC32 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Regression@2b552920]" name="reporterDataResults" is-config="true" duration-ms="1" started-at="2018-11-21T14:46:42Z" finished-at="2018-11-21T14:46:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC32 status=SKIP method=Regression.SanityTC32(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC32 is SKIPPED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="SKIP" signature="SanityTC33(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920]" name="SanityTC33" duration-ms="21" started-at="2018-11-21T14:46:42Z" data-provider="Regression" finished-at="2018-11-21T14:46:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Risk Category, CaseToRun=N, Module=Portfolio, Pass/Fail/Skip=SKIP, Category=, AddRule=Risk Category, Level1=, Filtername=Clearing, Filtername2=, Filtername3=, VerifyChip=Clearing, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Risk Category" from Facility Category
+3. Click Add filters (+) and select "Clearing", ExpectedResult="Risk Category" dialog should have the value  "Clearing"}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Risk Category's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Risk Category]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Risk Category's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Risk Category
+	at testcases.Regression.SanityTC33(Regression.java:668)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SanityTC33 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Regression@2b552920]" name="reporterDataResults" is-config="true" duration-ms="1" started-at="2018-11-21T14:46:42Z" finished-at="2018-11-21T14:46:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC33 status=SKIP method=Regression.SanityTC33(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC33 is SKIPPED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="SKIP" signature="SanityTC34(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920]" name="SanityTC34" duration-ms="27" started-at="2018-11-21T14:46:42Z" data-provider="Regression" finished-at="2018-11-21T14:46:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Approval type code, CaseToRun=N, Module=Portfolio, Pass/Fail/Skip=SKIP, Category=, AddRule=Approval type code, Level1=, Filtername=LIQUIDITY MANAGEMENT, Filtername2=, Filtername3=, VerifyChip=LIQUIDITY MANAGEMENT, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Approval type code" from Facility Category
+3. Click Add filters (+) and select "LIQUIDITY MANAGEMENT", ExpectedResult="Approval type code" dialog should have the value  "LIQUIDITY MANAGEMENT"}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Approval type code's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Approval type code]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Approval type code's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Approval type code
+	at testcases.Regression.SanityTC34(Regression.java:687)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SanityTC34 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Regression@2b552920]" name="reporterDataResults" is-config="true" duration-ms="1" started-at="2018-11-21T14:46:42Z" finished-at="2018-11-21T14:46:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC34 status=SKIP method=Regression.SanityTC34(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC34 is SKIPPED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="SKIP" signature="SanityTC35(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920]" name="SanityTC35" duration-ms="3" started-at="2018-11-21T14:46:42Z" data-provider="Regression" finished-at="2018-11-21T14:46:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Legal Entity, CaseToRun=N, Module=Portfolio, Pass/Fail/Skip=SKIP, Category=, AddRule=Legal Entity, Level1=, Filtername=AO CITIBANK (1001349844), Filtername2=, Filtername3=, VerifyChip=AO CITIBANK (1001349844), TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Legal Entity" from Exposure Category
+3. Click Add filters (+) and select "AO CITIBANK (1001349844)", ExpectedResult=Legal Entity dialog should have the value "AO CITIBANK (1001349844)"}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Legal Entity's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Legal Entity]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Legal Entity's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Legal Entity
+	at testcases.Regression.SanityTC35(Regression.java:706)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SanityTC35 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Regression@2b552920]" name="reporterDataResults" is-config="true" duration-ms="2" started-at="2018-11-21T14:46:42Z" finished-at="2018-11-21T14:46:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC35 status=SKIP method=Regression.SanityTC35(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC35 is SKIPPED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="SKIP" signature="SanityTC36(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920]" name="SanityTC36" duration-ms="1" started-at="2018-11-21T14:46:42Z" data-provider="Regression" finished-at="2018-11-21T14:46:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Legal Vehicle , CaseToRun=N, Module=Portfolio, Pass/Fail/Skip=SKIP, Category=, AddRule=Legal Vehicle, Level1=, Filtername=089ELIM (EM090), Filtername2=, Filtername3=, VerifyChip=089ELIM (EM090), TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Legal Vehicle" from Exposure Category
+3. Click Add filters (+) and select "089ELIM (EM090)", ExpectedResult="Legal Vehicle" dialog should have the value "089ELIM (EM090)"}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Legal Vehicle 's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Legal Vehicle ]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Legal Vehicle 's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Legal Vehicle 
+	at testcases.Regression.SanityTC36(Regression.java:725)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SanityTC36 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Regression@2b552920]" name="reporterDataResults" is-config="true" duration-ms="1" started-at="2018-11-21T14:46:42Z" finished-at="2018-11-21T14:46:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC36 status=SKIP method=Regression.SanityTC36(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC36 is SKIPPED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="SKIP" signature="SanityTC37(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920]" name="SanityTC37" duration-ms="8" started-at="2018-11-21T14:46:42Z" data-provider="Regression" finished-at="2018-11-21T14:46:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Portfolio Business Segment (PBS), CaseToRun=N, Module=Portfolio, Pass/Fail/Skip=SKIP, Category=, AddRule=Portfolio Business Segment (PBS), Level1=, Filtername=TREASURY, Filtername2=, Filtername3=, VerifyChip=TREASURY, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Portfolio Business Segment (PBS)" from Exposure Category
+3. Click Add filters (+) and select "TREASURY", ExpectedResult="Portfolio Business Segment (PBS)" dialog should have the value TREASURY}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Portfolio Business Segment (PBS)'s CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Portfolio Business Segment (PBS)]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Portfolio Business Segment (PBS)'s CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Portfolio Business Segment (PBS)
+	at testcases.Regression.SanityTC37(Regression.java:744)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SanityTC37 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Regression@2b552920]" name="reporterDataResults" is-config="true" duration-ms="1" started-at="2018-11-21T14:46:42Z" finished-at="2018-11-21T14:46:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC37 status=SKIP method=Regression.SanityTC37(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC37 is SKIPPED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="SKIP" signature="SanityTC38(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920]" name="SanityTC38" duration-ms="2" started-at="2018-11-21T14:46:42Z" data-provider="Regression" finished-at="2018-11-21T14:46:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Global Organization Code , CaseToRun=N, Module=Portfolio, Pass/Fail/Skip=SKIP, Category=, AddRule=Global Organization Code, Level1=, Filtername=#06-0012 AVON CO (EO27060012), Filtername2=, Filtername3=, VerifyChip=#06-0012 AVON CO (EO27060012), TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Global Organization Code" from Exposure Category
+3. Click Add filters (+) and select "#06-0012 AVON CO (EO27060012)", ExpectedResult="Global Organization Code" dialog should have the value #06-0012 AVON CO (EO27060012)}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Global Organization Code 's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Global Organization Code ]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Global Organization Code 's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Global Organization Code 
+	at testcases.Regression.SanityTC38(Regression.java:763)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SanityTC38 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Regression@2b552920]" name="reporterDataResults" is-config="true" duration-ms="1" started-at="2018-11-21T14:46:42Z" finished-at="2018-11-21T14:46:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC38 status=SKIP method=Regression.SanityTC38(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC38 is SKIPPED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="SKIP" signature="SanityTC39(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920]" name="SanityTC39" duration-ms="1" started-at="2018-11-21T14:46:42Z" data-provider="Regression" finished-at="2018-11-21T14:46:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Managed Segment , CaseToRun=N, Module=Portfolio, Pass/Fail/Skip=SKIP, Category=, AddRule=Managed Segment, Level1=, Filtername=India [L10], Filtername2=, Filtername3=, VerifyChip=India [L10], TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Managed Segment" from Exposure Category
+3. Click Add filters (+) and select "India [L10]", ExpectedResult=Managed Segment  dialog should have the value "India [L10]"}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Managed Segment 's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Managed Segment ]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Managed Segment 's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Managed Segment 
+	at testcases.Regression.SanityTC39(Regression.java:782)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SanityTC39 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Regression@2b552920]" name="reporterDataResults" is-config="true" duration-ms="4" started-at="2018-11-21T14:46:42Z" finished-at="2018-11-21T14:46:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC39 status=SKIP method=Regression.SanityTC39(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC39 is SKIPPED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="SKIP" signature="SanityTC4(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920]" name="SanityTC4" duration-ms="2" started-at="2018-11-21T14:46:42Z" data-provider="Regression" finished-at="2018-11-21T14:46:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Control Unit Credit Organization , CaseToRun=N, Module=Portfolio, Pass/Fail/Skip=SKIP, Category=, AddRule=Control Unit Credit Organization, Level1=, Filtername=GTS|RE, Filtername2=, Filtername3=, VerifyChip=, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Control Unit Credit Organization"  from "Business Unit" Category
+3. Click Add filters (+) and select "GTS", "RE" , ExpectedResult="Control Unit Credit Organization" dialog should have the value "GTS", "RE" }]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Control Unit Credit Organization 's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Control Unit Credit Organization ]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Control Unit Credit Organization 's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Control Unit Credit Organization 
+	at testcases.Regression.SanityTC4(Regression.java:124)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SanityTC4 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Regression@2b552920]" name="reporterDataResults" is-config="true" duration-ms="1" started-at="2018-11-21T14:46:42Z" finished-at="2018-11-21T14:46:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC4 status=SKIP method=Regression.SanityTC4(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC4 is SKIPPED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="SKIP" signature="SanityTC40(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920]" name="SanityTC40" duration-ms="5" started-at="2018-11-21T14:46:42Z" data-provider="Regression" finished-at="2018-11-21T14:46:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=OS Finance Data Load (FDL) Account Nm, CaseToRun=N, Module=Portfolio, Pass/Fail/Skip=SKIP, Category=, AddRule=OS Finance Data Load (FDL) Account Nm, Level1=, Filtername=INDIA RUPEE EQUITY-AUTO, Filtername2=, Filtername3=, VerifyChip=INDIA RUPEE EQUITY-AUTO, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "OS Finance Data Load (FDL) Account Nm" from Exposure Category
+3. Click Add filters (+) and select "INDIA RUPEE EQUITY-AUTO", ExpectedResult="OS Finance Data Load (FDL) Account Nm"  dialog should have the value "INDIA RUPEE EQUITY-AUTO"}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[OS Finance Data Load (FDL) Account Nm's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of OS Finance Data Load (FDL) Account Nm]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: OS Finance Data Load (FDL) Account Nm's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of OS Finance Data Load (FDL) Account Nm
+	at testcases.Regression.SanityTC40(Regression.java:801)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SanityTC40 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Regression@2b552920]" name="reporterDataResults" is-config="true" duration-ms="0" started-at="2018-11-21T14:46:42Z" finished-at="2018-11-21T14:46:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC40 status=SKIP method=Regression.SanityTC40(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC40 is SKIPPED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="SKIP" signature="SanityTC41(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920]" name="SanityTC41" duration-ms="1" started-at="2018-11-21T14:46:42Z" data-provider="Regression" finished-at="2018-11-21T14:46:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=OS Global Finance Management Information System, CaseToRun=N, Module=Portfolio, Pass/Fail/Skip=SKIP, Category=, AddRule=OS Global Finance Management Information System, Level1=, Filtername=Best Efforts Distribution (L3 - 80100100000), Filtername2=, Filtername3=, VerifyChip=Best Efforts Distribution (L3 - 80100100000), TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "OS Global Finance Management Information System" from Product Category
+3. Click Add filters (+) and select "Best Efforts Distribution (L3 - 80100100000)".
+4. Click close of the dialog
+5. Chip "Best Efforts Distribution (L4 - 80100100010)" should be populated  , ExpectedResult=a. OS Global Finance Management Information System dialog should have the value "Best Efforts Distribution (L3 - 80100100000)". 
+b. Chip for "Best Efforts Distribution (L4 - 80100100010)" should be displayed in main screen}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[OS Global Finance Management Information System's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of OS Global Finance Management Information System]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: OS Global Finance Management Information System's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of OS Global Finance Management Information System
+	at testcases.Regression.SanityTC41(Regression.java:820)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SanityTC41 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Regression@2b552920]" name="reporterDataResults" is-config="true" duration-ms="1" started-at="2018-11-21T14:46:42Z" finished-at="2018-11-21T14:46:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC41 status=SKIP method=Regression.SanityTC41(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC41 is SKIPPED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="SKIP" signature="SanityTC42(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920]" name="SanityTC42" duration-ms="3" started-at="2018-11-21T14:46:42Z" data-provider="Regression" finished-at="2018-11-21T14:46:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Management Product Level, CaseToRun=N, Module=Portfolio, Pass/Fail/Skip=SKIP, Category=, AddRule=Management Product Level, Level1=, Filtername=Commodities (20200990000), Filtername2=, Filtername3=, VerifyChip=Commodities (20200990000), TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Management Product Level" from Product Category
+3. Click Add filters (+) and select "Commodities (20200990000)", ExpectedResult=Management Product Level dialog should have the value "Commodities (20200990000)"}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Management Product Level's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Management Product Level]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Management Product Level's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Management Product Level
+	at testcases.Regression.SanityTC42(Regression.java:839)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SanityTC42 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Regression@2b552920]" name="reporterDataResults" is-config="true" duration-ms="0" started-at="2018-11-21T14:46:42Z" finished-at="2018-11-21T14:46:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC42 status=SKIP method=Regression.SanityTC42(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC42 is SKIPPED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="SKIP" signature="SanityTC43(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920]" name="SanityTC43" duration-ms="5" started-at="2018-11-21T14:46:42Z" data-provider="Regression" finished-at="2018-11-21T14:46:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Facility Global Finance Management Information System, CaseToRun=N, Module=Portfolio, Pass/Fail/Skip=SKIP, Category=, AddRule=Facility Global Finance Management Information System, Level1=, Filtername=Best Efforts Distribution (L3 - 80100100000), Filtername2=, Filtername3=, VerifyChip=Best Efforts Distribution (L3 - 80100100000), TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Facility Global Finance Management Information System" from Product Category
+3. Click Add filters (+) and select "Best Efforts Distribution (L3 - 80100100000)".
+4. Click close of the dialog
+5. Chip "Best Efforts Distribution (L4 - 80100100010)" should be populated  , ExpectedResult=a.Facility Global Finance Management Information System dialog should have the value "Best Efforts Distribution (L3 - 80100100000)". 
+b. Chip for "Best Efforts Distribution (L4 - 80100100010)" should be displayed in main screen}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Facility Global Finance Management Information System's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Facility Global Finance Management Information System]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Facility Global Finance Management Information System's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Facility Global Finance Management Information System
+	at testcases.Regression.SanityTC43(Regression.java:858)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SanityTC43 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Regression@2b552920]" name="reporterDataResults" is-config="true" duration-ms="0" started-at="2018-11-21T14:46:42Z" finished-at="2018-11-21T14:46:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC43 status=SKIP method=Regression.SanityTC43(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC43 is SKIPPED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="SKIP" signature="SanityTC5(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920]" name="SanityTC5" duration-ms="2" started-at="2018-11-21T14:46:42Z" data-provider="Regression" finished-at="2018-11-21T14:46:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Control Unit, CaseToRun=N, Module=Portfolio, Pass/Fail/Skip=SKIP, Category=, AddRule=Control Unit, Level1=, Filtername=AME HEALTH&LIFE INSU (107251)|CCB CTL RMU TW (106580)|CITI ADMIN SERV INC (107249), Filtername2=, Filtername3=, VerifyChip=, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Control Unit"  from "Business Unit" Category
+3. Click Add filters (+) and select "AME HEALTH&LIFE INSU (107251)", "CCB CTL RMU TW (106580)", "CITI ADMIN SERV INC (107249)"  from BANKING BK, ExpectedResult="Control Unit" dialog should have the value "AME HEALTH&LIFE INSU (107251)", "CCB CTL RMU TW (106580)", "CITI ADMIN SERV INC (107249)"}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Control Unit's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Control Unit]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Control Unit's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Control Unit
+	at testcases.Regression.SanityTC5(Regression.java:142)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SanityTC5 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Regression@2b552920]" name="reporterDataResults" is-config="true" duration-ms="0" started-at="2018-11-21T14:46:42Z" finished-at="2018-11-21T14:46:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC5 status=SKIP method=Regression.SanityTC5(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC5 is SKIPPED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="SKIP" signature="SanityTC6(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920]" name="SanityTC6" duration-ms="8" started-at="2018-11-21T14:46:42Z" data-provider="Regression" finished-at="2018-11-21T14:46:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Approving Unit, CaseToRun=N, Module=Portfolio, Pass/Fail/Skip=SKIP, Category=, AddRule=Approving Unit, Level1=, Filtername=AS AGENT REPO (300171)|AGENCY & TRUST CEP (300789), Filtername2=, Filtername3=, VerifyChip=, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Approving Unit" from"Business Unit" Category
+3. Click Add filters (+) and select "AS AGENT REPO (300171)" from FIRM & "AGENCY & TRUST CEP (300789)" from GTS, ExpectedResult="Approving Unit" dialog should have the value "AS AGENT REPO (300171)" in FIRM & "AGENCY & TRUST CEP (300789)" from GTS}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Approving Unit's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Approving Unit]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Approving Unit's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Approving Unit
+	at testcases.Regression.SanityTC6(Regression.java:160)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SanityTC6 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Regression@2b552920]" name="reporterDataResults" is-config="true" duration-ms="1" started-at="2018-11-21T14:46:42Z" finished-at="2018-11-21T14:46:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC6 status=SKIP method=Regression.SanityTC6(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC6 is SKIPPED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="SKIP" signature="SanityTC7(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920]" name="SanityTC7" duration-ms="4" started-at="2018-11-21T14:46:43Z" data-provider="Regression" finished-at="2018-11-21T14:46:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Extending Unit, CaseToRun=N, Module=Portfolio, Pass/Fail/Skip=SKIP, Category=, AddRule=Extending Unit, Level1=, Filtername=ACCIVAL - REPO (107200)|APEMCT-HK (102147), Filtername2=, Filtername3=, VerifyChip=, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Extending Unit" from "Business Unit" Category
+3. Click Add filters (+) and select "ACCIVAL - REPO (107200)" from FIRM & "APEMCT-HK (102147)" from GIRM, ExpectedResult="Extending Unit" dialog should have the value "ACCIVAL - REPO (107200)" in FIRM & "APEMCT-HK (102147)" in GIRM}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Extending Unit's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Extending Unit]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Extending Unit's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Extending Unit
+	at testcases.Regression.SanityTC7(Regression.java:178)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SanityTC7 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Regression@2b552920]" name="reporterDataResults" is-config="true" duration-ms="3" started-at="2018-11-21T14:46:43Z" finished-at="2018-11-21T14:46:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC7 status=SKIP method=Regression.SanityTC7(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC7 is SKIPPED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="SKIP" signature="SanityTC8(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920]" name="SanityTC8" duration-ms="2" started-at="2018-11-21T14:46:43Z" data-provider="Regression" finished-at="2018-11-21T14:46:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Independent Risk Unit Geography, CaseToRun=N, Module=Portfolio, Pass/Fail/Skip=SKIP, Category=, AddRule=Independent Risk Unit Geography, Level1=, Filtername=JERSEY (L4 - JE), Filtername2=, Filtername3=, VerifyChip=JERSEY (L4 - JE), TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Independent Risk Unit Geography" from Geography Category
+3. Click Add filters (+) and select "JERSEY (L4 - JE)", ExpectedResult="Independent Risk Unit Geography" dialog should have the value "JERSEY (L4 - JE)"}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Independent Risk Unit Geography's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Independent Risk Unit Geography]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Independent Risk Unit Geography's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Independent Risk Unit Geography
+	at testcases.Regression.SanityTC8(Regression.java:197)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SanityTC8 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Regression@2b552920]" name="reporterDataResults" is-config="true" duration-ms="1" started-at="2018-11-21T14:46:43Z" finished-at="2018-11-21T14:46:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC8 status=SKIP method=Regression.SanityTC8(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC8 is SKIPPED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="SKIP" signature="SanityTC9(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920]" name="SanityTC9" duration-ms="2" started-at="2018-11-21T14:46:43Z" data-provider="Regression" finished-at="2018-11-21T14:46:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Control Unit Geography , CaseToRun=N, Module=Portfolio, Pass/Fail/Skip=SKIP, Category=, AddRule=Independent Risk Unit Credit Organization, Level1=, Filtername=JERSEY (L4 - JE), Filtername2=, Filtername3=, VerifyChip=JERSEY (L4 - JE), TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Control Unit Geography" from Geography Category
+3. Click Add filters (+) and select "JERSEY (L4 - JE)"
+4. Close the dialog, ExpectedResult=a. "Control Unit Geography" dialog should have the value "ISRAEL (L2 - 15)"
+b. Chip in the main screen after dialog close should display "ISRAEL (L4 - IL)"}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Control Unit Geography 's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Control Unit Geography ]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Control Unit Geography 's CaseToRun Flag Is 'N' Or Blank. So Skipping Execution Of Control Unit Geography 
+	at testcases.Regression.SanityTC9(Regression.java:217)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SanityTC9 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Regression@2b552920]" name="reporterDataResults" is-config="true" duration-ms="0" started-at="2018-11-21T14:46:43Z" finished-at="2018-11-21T14:46:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC9 status=SKIP method=Regression.SanityTC9(java.util.LinkedHashMap)[pri:0, instance:testcases.Regression@2b552920] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC9 is SKIPPED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="PASS" signature="aftersuite()[pri:0, instance:testcases.Regression@2b552920]" name="aftersuite" is-config="true" duration-ms="1699" started-at="2018-11-21T14:46:43Z" finished-at="2018-11-21T14:46:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuite -->
+      </class> <!-- testcases.Regression -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

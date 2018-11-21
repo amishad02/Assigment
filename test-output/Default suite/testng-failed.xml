@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="testcases.Regression">
+        <methods>
+          <include name="SanityTC18" invocation-numbers="0"/>
+          <include name="SanityTC14" invocation-numbers="0"/>
+          <include name="SanityTC36" invocation-numbers="0"/>
+          <include name="SanityTC17" invocation-numbers="0"/>
+          <include name="SanityTC39" invocation-numbers="0"/>
+          <include name="SanityTC16" invocation-numbers="0"/>
+          <include name="SanityTC38" invocation-numbers="0"/>
+          <include name="SanityTC19" invocation-numbers="0"/>
+          <include name="SanityTC21" invocation-numbers="0"/>
+          <include name="SanityTC43" invocation-numbers="0"/>
+          <include name="SanityTC24" invocation-numbers="0"/>
+          <include name="SanityTC23" invocation-numbers="0"/>
+          <include name="SanityTC26" invocation-numbers="0"/>
+          <include name="SanityTC20" invocation-numbers="0"/>
+          <include name="SanityTC42" invocation-numbers="0"/>
+          <include name="SanityTC41" invocation-numbers="0"/>
+          <include name="SanityTC22" invocation-numbers="0"/>
+          <include name="SanityTC40" invocation-numbers="0"/>
+          <include name="SanityTC1" invocation-numbers="0"/>
+          <include name="SanityTC4" invocation-numbers="0"/>
+          <include name="reporterDataResults"/>
+          <include name="SanityTC3" invocation-numbers="0"/>
+          <include name="SanityTC6" invocation-numbers="0"/>
+          <include name="SanityTC2" invocation-numbers="0"/>
+          <include name="SanityTC29" invocation-numbers="0"/>
+          <include name="SanityTC9" invocation-numbers="0"/>
+          <include name="SanityTC25" invocation-numbers="0"/>
+          <include name="SanityTC5" invocation-numbers="0"/>
+          <include name="SanityTC28" invocation-numbers="0"/>
+          <include name="SanityTC8" invocation-numbers="0"/>
+          <include name="SanityTC27" invocation-numbers="0"/>
+          <include name="SanityTC7" invocation-numbers="0"/>
+          <include name="SanityTC10" invocation-numbers="0"/>
+          <include name="SanityTC32" invocation-numbers="0"/>
+          <include name="SanityTC13" invocation-numbers="0"/>
+          <include name="SanityTC35" invocation-numbers="0"/>
+          <include name="SanityTC12" invocation-numbers="0"/>
+          <include name="SanityTC34" invocation-numbers="0"/>
+          <include name="SanityTC15" invocation-numbers="0"/>
+          <include name="SanityTC37" invocation-numbers="0"/>
+          <include name="SanityTC31" invocation-numbers="0"/>
+          <include name="SanityTC30" invocation-numbers="0"/>
+          <include name="aftersuite"/>
+          <include name="SanityTC11" invocation-numbers="0"/>
+          <include name="SanityTC33" invocation-numbers="0"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- testcases.Regression -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

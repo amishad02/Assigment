@@ -1,0 +1,59 @@
+2018-11-21 14:46:14,327 - rootLogger - INFO - All Excel Files Initialised successfully.
+2018-11-21 14:46:20,893 - rootLogger - INFO - Chrome Driver Instance loaded successfully.
+2018-11-21 14:46:26,028 - rootLogger - INFO - Successfully waited for Button Add Rule to be present on page
+2018-11-21 14:46:26,468 - rootLogger - INFO - Successfully clicked on  Button Add Rule element.
+2018-11-21 14:46:28,547 - rootLogger - INFO - Successfully waited for Filter Search to be present on page
+2018-11-21 14:46:29,884 - rootLogger - INFO - Successfully entered Management Product Level in Filter Search textbox.
+2018-11-21 14:46:31,917 - rootLogger - INFO - Successfully waited for invisibility of Add Filters Progress Bar
+2018-11-21 14:46:32,124 - rootLogger - INFO - Successfully clicked on  Management Product Level checkbox
+2018-11-21 14:46:33,444 - rootLogger - INFO - Successfully clicked on  Close Icon Add Rule Pop Up element.
+2018-11-21 14:46:34,520 - rootLogger - INFO - Successfully waited for Add Icon to be present on page
+2018-11-21 14:46:34,680 - rootLogger - INFO - Successfully clicked on  Add Icon element.
+2018-11-21 14:46:36,745 - rootLogger - INFO - Successfully waited for Commercial Cards (30400100000) checkbox to be present on page
+2018-11-21 14:46:36,871 - rootLogger - INFO - Successfully clicked on  Commercial Cards (30400100000) checkbox
+2018-11-21 14:46:37,081 - rootLogger - INFO - Successfully clicked on  Close Icon Add Rule Pop Up element.
+2018-11-21 14:46:39,146 - rootLogger - INFO - Successfully waited for Commercial Cards (30400100000) filter on Home Page to be present on page
+2018-11-21 14:46:39,150 - rootLogger - INFO - RegTC44 is PASS
+2018-11-21 14:46:41,103 - rootLogger - INFO - SanityTC1 is SKIPPED
+2018-11-21 14:46:41,161 - rootLogger - INFO - SanityTC10 is SKIPPED
+2018-11-21 14:46:41,185 - rootLogger - INFO - SanityTC11 is SKIPPED
+2018-11-21 14:46:41,293 - rootLogger - INFO - SanityTC12 is SKIPPED
+2018-11-21 14:46:41,330 - rootLogger - INFO - SanityTC13 is SKIPPED
+2018-11-21 14:46:41,362 - rootLogger - INFO - SanityTC14 is SKIPPED
+2018-11-21 14:46:41,463 - rootLogger - INFO - SanityTC15 is SKIPPED
+2018-11-21 14:46:41,508 - rootLogger - INFO - SanityTC16 is SKIPPED
+2018-11-21 14:46:41,557 - rootLogger - INFO - SanityTC17 is SKIPPED
+2018-11-21 14:46:41,631 - rootLogger - INFO - SanityTC18 is SKIPPED
+2018-11-21 14:46:41,646 - rootLogger - INFO - SanityTC19 is SKIPPED
+2018-11-21 14:46:41,677 - rootLogger - INFO - SanityTC2 is SKIPPED
+2018-11-21 14:46:41,743 - rootLogger - INFO - SanityTC20 is SKIPPED
+2018-11-21 14:46:42,038 - rootLogger - INFO - SanityTC21 is SKIPPED
+2018-11-21 14:46:42,059 - rootLogger - INFO - SanityTC22 is SKIPPED
+2018-11-21 14:46:42,109 - rootLogger - INFO - SanityTC23 is SKIPPED
+2018-11-21 14:46:42,144 - rootLogger - INFO - SanityTC24 is SKIPPED
+2018-11-21 14:46:42,167 - rootLogger - INFO - SanityTC25 is SKIPPED
+2018-11-21 14:46:42,229 - rootLogger - INFO - SanityTC26 is SKIPPED
+2018-11-21 14:46:42,263 - rootLogger - INFO - SanityTC27 is SKIPPED
+2018-11-21 14:46:42,311 - rootLogger - INFO - SanityTC28 is SKIPPED
+2018-11-21 14:46:42,333 - rootLogger - INFO - SanityTC29 is SKIPPED
+2018-11-21 14:46:42,402 - rootLogger - INFO - SanityTC3 is SKIPPED
+2018-11-21 14:46:42,446 - rootLogger - INFO - SanityTC30 is SKIPPED
+2018-11-21 14:46:42,460 - rootLogger - INFO - SanityTC31 is SKIPPED
+2018-11-21 14:46:42,484 - rootLogger - INFO - SanityTC32 is SKIPPED
+2018-11-21 14:46:42,524 - rootLogger - INFO - SanityTC33 is SKIPPED
+2018-11-21 14:46:42,629 - rootLogger - INFO - SanityTC34 is SKIPPED
+2018-11-21 14:46:42,684 - rootLogger - INFO - SanityTC35 is SKIPPED
+2018-11-21 14:46:42,705 - rootLogger - INFO - SanityTC36 is SKIPPED
+2018-11-21 14:46:42,734 - rootLogger - INFO - SanityTC37 is SKIPPED
+2018-11-21 14:46:42,767 - rootLogger - INFO - SanityTC38 is SKIPPED
+2018-11-21 14:46:42,781 - rootLogger - INFO - SanityTC39 is SKIPPED
+2018-11-21 14:46:42,826 - rootLogger - INFO - SanityTC4 is SKIPPED
+2018-11-21 14:46:42,842 - rootLogger - INFO - SanityTC40 is SKIPPED
+2018-11-21 14:46:42,874 - rootLogger - INFO - SanityTC41 is SKIPPED
+2018-11-21 14:46:42,930 - rootLogger - INFO - SanityTC42 is SKIPPED
+2018-11-21 14:46:42,950 - rootLogger - INFO - SanityTC43 is SKIPPED
+2018-11-21 14:46:42,966 - rootLogger - INFO - SanityTC5 is SKIPPED
+2018-11-21 14:46:42,998 - rootLogger - INFO - SanityTC6 is SKIPPED
+2018-11-21 14:46:43,019 - rootLogger - INFO - SanityTC7 is SKIPPED
+2018-11-21 14:46:43,051 - rootLogger - INFO - SanityTC8 is SKIPPED
+2018-11-21 14:46:43,069 - rootLogger - INFO - SanityTC9 is SKIPPED

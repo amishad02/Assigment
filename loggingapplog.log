@@ -1,0 +1,59 @@
+2017-11-13 06:55:21,174 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-11-13 06:55:21,174 - rootLogger - INFO - Config.properties file loaded successfully.
+2017-11-13 06:55:21,424 - rootLogger - INFO - TimeLoad_TC19 is SKIPPED
+2017-11-13 06:55:21,471 - rootLogger - INFO - TimeLoad_TC20 is SKIPPED
+2017-11-13 06:55:21,533 - rootLogger - INFO - TimeLoad_TC21 is SKIPPED
+2017-11-13 06:55:21,627 - rootLogger - INFO - TimeLoad_TC22 is SKIPPED
+2017-11-13 06:55:21,674 - rootLogger - INFO - TimeLoad_TC23 is SKIPPED
+2017-11-13 06:55:21,768 - rootLogger - INFO - TimeLoad_TC24 is SKIPPED
+2017-11-13 06:55:21,783 - rootLogger - INFO - TimeLoad_TC25 is SKIPPED
+2017-11-13 06:55:21,877 - rootLogger - INFO - TimeLoad_TC26 is SKIPPED
+2017-11-13 06:55:21,908 - rootLogger - INFO - TimeLoad_TC27 is SKIPPED
+2017-11-13 06:55:21,955 - rootLogger - INFO - TimeLoad_TC28 is SKIPPED
+2017-11-13 06:55:21,971 - rootLogger - INFO - TimeLoad_TC29 is SKIPPED
+2017-11-13 06:55:22,018 - rootLogger - INFO - TimeLoad_TC30 is SKIPPED
+2017-11-13 06:55:22,033 - rootLogger - INFO - TimeLoad_TC31 is SKIPPED
+2017-11-13 06:55:22,455 - rootLogger - INFO - TimeLoad_TC32 is SKIPPED
+2017-11-13 06:55:22,502 - rootLogger - INFO - TimeLoad_TC33 is SKIPPED
+2017-11-13 06:55:22,564 - rootLogger - INFO - TimeLoad_TC35 is SKIPPED
+2017-11-13 06:55:22,736 - rootLogger - INFO - TimeLoad_TC36 is SKIPPED
+2017-11-13 06:55:22,971 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-11-13 06:55:22,986 - rootLogger - INFO - Config.properties file loaded successfully.
+2017-11-13 06:55:25,616 - rootLogger - INFO - Chrome Driver Instance loaded successfully.
+2017-11-13 06:55:55,730 - rootLogger - INFO - TimeLoad_TC1 is PASS
+2017-11-13 06:55:56,447 - rootLogger - INFO - TimeLoad_TC10 is SKIPPED
+2017-11-13 06:55:56,510 - rootLogger - INFO - TimeLoad_TC11 is SKIPPED
+2017-11-13 06:55:56,525 - rootLogger - INFO - TimeLoad_TC12 is SKIPPED
+2017-11-13 06:55:56,541 - rootLogger - INFO - TimeLoad_TC13 is SKIPPED
+2017-11-13 06:55:56,557 - rootLogger - INFO - TimeLoad_TC14 is SKIPPED
+2017-11-13 06:55:56,604 - rootLogger - INFO - TimeLoad_TC16 is SKIPPED
+2017-11-13 06:55:56,635 - rootLogger - INFO - TimeLoad_TC17 is SKIPPED
+2017-11-13 06:55:56,650 - rootLogger - INFO - TimeLoad_TC18 is SKIPPED
+2017-11-13 06:55:56,666 - rootLogger - INFO - TimeLoad_TC2 is SKIPPED
+2017-11-13 06:55:56,963 - rootLogger - INFO - TimeLoad_TC3 is SKIPPED
+2017-11-13 06:55:57,135 - rootLogger - INFO - TimeLoad_TC4 is SKIPPED
+2017-11-13 06:55:57,291 - rootLogger - INFO - TimeLoad_TC5 is SKIPPED
+2017-11-13 06:55:57,307 - rootLogger - INFO - TimeLoad_TC6 is SKIPPED
+2017-11-13 06:55:57,322 - rootLogger - INFO - TimeLoad_TC7 is SKIPPED
+2017-11-13 06:55:57,338 - rootLogger - INFO - TimeLoad_TC8 is SKIPPED
+2017-11-13 06:55:57,354 - rootLogger - INFO - TimeLoad_TC9 is SKIPPED
+2017-11-13 06:55:57,463 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-11-13 06:55:57,479 - rootLogger - INFO - Config.properties file loaded successfully.
+2017-11-13 06:55:57,666 - rootLogger - INFO - TimeLoad_TC37 is SKIPPED
+2017-11-13 06:55:57,682 - rootLogger - INFO - TimeLoad_TC38 is SKIPPED
+2017-11-13 06:55:57,697 - rootLogger - INFO - TimeLoad_TC39 is SKIPPED
+2017-11-13 06:55:57,744 - rootLogger - INFO - TimeLoad_TC40 is SKIPPED
+2017-11-13 06:55:57,775 - rootLogger - INFO - TimeLoad_TC41 is SKIPPED
+2017-11-13 06:55:57,775 - rootLogger - INFO - TimeLoad_TC42 is SKIPPED
+2017-11-13 06:55:57,791 - rootLogger - INFO - TimeLoad_TC43 is SKIPPED
+2017-11-13 06:55:57,838 - rootLogger - INFO - TimeLoad_TC44 is SKIPPED
+2017-11-13 06:55:57,854 - rootLogger - INFO - TimeLoad_TC45 is SKIPPED
+2017-11-13 06:55:57,885 - rootLogger - INFO - TimeLoad_TC46 is SKIPPED
+2017-11-13 06:55:57,932 - rootLogger - INFO - TimeLoad_TC47 is SKIPPED
+2017-11-13 06:55:57,947 - rootLogger - INFO - TimeLoad_TC48 is SKIPPED
+2017-11-13 06:55:57,979 - rootLogger - INFO - TimeLoad_TC49 is SKIPPED
+2017-11-13 06:55:57,994 - rootLogger - INFO - TimeLoad_TC50 is SKIPPED
+2017-11-13 06:55:58,041 - rootLogger - INFO - TimeLoad_TC51 is SKIPPED
+2017-11-13 06:55:58,057 - rootLogger - INFO - TimeLoad_TC52 is SKIPPED
+2017-11-13 06:55:58,057 - rootLogger - INFO - TimeLoad_TC53 is SKIPPED
+2017-11-13 06:55:58,088 - rootLogger - INFO - TimeLoad_TC54 is SKIPPED

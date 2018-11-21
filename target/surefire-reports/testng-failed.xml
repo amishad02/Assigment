@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Sanity]">
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+    <listener class-name="utility.ScreenshotUtility"/>
+    <listener class-name="utility.TimeKeeper"/>
+  </listeners>
+  <test name="Sanity1(failed)">
+    <classes>
+      <class name="testcases.Sanity">
+        <methods>
+          <include name="SanityTC17" invocation-numbers="0"/>
+          <include name="aftersuite"/>
+          <include name="setUp"/>
+          <include name="SanityTC29" invocation-numbers="0"/>
+          <include name="SanityTC2" invocation-numbers="0"/>
+          <include name="reporterDataResults"/>
+        </methods>
+      </class> <!-- testcases.Sanity -->
+    </classes>
+  </test> <!-- Sanity1(failed) -->
+</suite> <!-- Failed suite [Sanity] -->

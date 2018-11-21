@@ -1,0 +1,1380 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="" lang="">
+<head>
+  <title>Test Results Report - Sanity1</title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name="description" content="TestNG unit test results." />
+  <link href="reportng.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="reportng.js"></script>
+</head>
+<body>
+<h1>Sanity1</h1>
+<p>
+  Test duration: 871.333s
+</p>
+
+
+
+  <table class="resultsTable">
+    <tr><th colspan="3" class="header failed">Failed Tests</th></tr>
+          <tr>
+        <td colspan="3" class="group">testcases.Sanity</td>
+      </tr>
+            
+<tr>
+  <td class="method">
+                  SanityTC17
+      </td>
+  <td class="duration">
+    41.570s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">{TestCaseName=Geography At Risk, CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Geography At Risk, Level1=EMEA|ISRAEL|ISRAEL|ISRAEL, Filtername=, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Geography At Risk" from Relationship Category
+3. Click Add filters (+) and select the following
+Level 1 - EMEA 
+Level 2 - ISRAEL
+Level 3 - ISRAEL
+Level 4 - ISRAEL, ExpectedResult=Geography At Risk Dialog should have the value 
+Level1 - EMAC
+Level2 - ISRAEL
+Level3 - ISRAEL
+Level4 - ISRAEL}</span><br />
+    
+            <div class="testOutput">
+                        Successfully waited for Button Add Rule to be present on page<br />
+                                Successfully clicked on Button Add Rule element.<br />
+                                Successfully waited for Icon Forward to be present on page<br />
+                                Successfully clicked on Geography At Risk checkbox option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Add Icon not present on page<br />
+                  </div>
+    
+
+        <a href="javascript:toggleElement('exception-0', 'block')" title="Click to expand/collapse"><b>java.lang.AssertionError: null</b></a><br />
+    <div class="stackTrace" id="exception-0">
+              org.testng.Assert.fail(Assert.java:93)<br />
+              org.testng.Assert.fail(Assert.java:100)<br />
+              utility.SeleniumUtils.waitForElementPresent(SeleniumUtils.java:550)<br />
+              pageobjects.HomePage.checkLevel(HomePage.java:210)<br />
+              testcases.Sanity.SanityTC17(Sanity.java:347)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:483)<br />
+              org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)<br />
+              org.testng.internal.Invoker.invokeMethod(Invoker.java:661)<br />
+              org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)<br />
+              org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)<br />
+              org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)<br />
+              org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)<br />
+              org.testng.TestRunner.privateRun(TestRunner.java:744)<br />
+              org.testng.TestRunner.run(TestRunner.java:602)<br />
+              org.testng.SuiteRunner.runTest(SuiteRunner.java:380)<br />
+              org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)<br />
+              org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)<br />
+              org.testng.SuiteRunner.run(SuiteRunner.java:289)<br />
+              org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)<br />
+              org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)<br />
+              org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)<br />
+              org.testng.TestNG.runSuitesLocally(TestNG.java:1226)<br />
+              org.testng.TestNG.runSuites(TestNG.java:1144)<br />
+              org.testng.TestNG.run(TestNG.java:1115)<br />
+              org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:281)<br />
+              org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)<br />
+              org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:121)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:290)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:242)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:121)<br />
+                </div>
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  SanityTC2
+      </td>
+  <td class="duration">
+    72.297s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">{TestCaseName=Level 2 Client Owner, CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Level 2 Client Owner, Level1=, Filtername=GT, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Level 2 Client Owner" from CIS Hierarchy Category
+3. Click Add filters (+) and select GT, ExpectedResult=Level 2 Client Owner Dialog should have the value GT}</span><br />
+    
+            <div class="testOutput">
+                        Successfully waited for Button Add Rule to be present on page<br />
+                                Successfully clicked on Button Add Rule element.<br />
+                                Successfully waited for Icon Forward to be present on page<br />
+                                Successfully clicked on Level 2 Client Owner checkbox option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for Add Icon to be present on page<br />
+                                Successfully clicked on Add Icon element.<br />
+                                GT checkbox level 1 not present on page<br />
+                  </div>
+    
+
+        <a href="javascript:toggleElement('exception-1', 'block')" title="Click to expand/collapse"><b>java.lang.AssertionError: null</b></a><br />
+    <div class="stackTrace" id="exception-1">
+              org.testng.Assert.fail(Assert.java:93)<br />
+              org.testng.Assert.fail(Assert.java:100)<br />
+              utility.SeleniumUtils.waitForElementPresent(SeleniumUtils.java:565)<br />
+              pageobjects.HomePage.filtersCheck(HomePage.java:80)<br />
+              testcases.Sanity.SanityTC2(Sanity.java:76)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:483)<br />
+              org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)<br />
+              org.testng.internal.Invoker.invokeMethod(Invoker.java:661)<br />
+              org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)<br />
+              org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)<br />
+              org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)<br />
+              org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)<br />
+              org.testng.TestRunner.privateRun(TestRunner.java:744)<br />
+              org.testng.TestRunner.run(TestRunner.java:602)<br />
+              org.testng.SuiteRunner.runTest(SuiteRunner.java:380)<br />
+              org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)<br />
+              org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)<br />
+              org.testng.SuiteRunner.run(SuiteRunner.java:289)<br />
+              org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)<br />
+              org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)<br />
+              org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)<br />
+              org.testng.TestNG.runSuitesLocally(TestNG.java:1226)<br />
+              org.testng.TestNG.runSuites(TestNG.java:1144)<br />
+              org.testng.TestNG.run(TestNG.java:1115)<br />
+              org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:281)<br />
+              org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)<br />
+              org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:121)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:290)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:242)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:121)<br />
+                </div>
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  SanityTC29
+      </td>
+  <td class="duration">
+    85.834s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">{TestCaseName=Exclude Liquidity Management , CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Exclude Liquidity Management, Level1=, Filtername=, TestCaseDescription =check whether data the top exposure dialog is displayed, Steps to execute=1.Click Add Rule
+2. Select "Exclude Liquidity Management " from Facility Category
+3. select Yes and click Review Button on the right top corner, ExpectedResult=Top Exposures dialog box should be displayed}</span><br />
+    
+            <div class="testOutput">
+                        Successfully waited for Button Add Rule to be present on page<br />
+                                Successfully clicked on Button Add Rule element.<br />
+                                Successfully waited for Icon Forward to be present on page<br />
+                                Successfully clicked on Exclude Liquidity Management checkbox option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for Yes radio button Exclude Liquidity Management to be present on page<br />
+                                Successfully clicked on Yes radio button Exclude Liquidity Management option on tree.<br />
+                                Successfully waited for Review Icon to be present on page<br />
+                                Successfully clicked on Review Icon element.<br />
+                                Top Exposures pop up header not present on page<br />
+                  </div>
+    
+
+        <a href="javascript:toggleElement('exception-2', 'block')" title="Click to expand/collapse"><b>java.lang.AssertionError: null</b></a><br />
+    <div class="stackTrace" id="exception-2">
+              org.testng.Assert.fail(Assert.java:93)<br />
+              org.testng.Assert.fail(Assert.java:100)<br />
+              utility.SeleniumUtils.waitForElementPresent(SeleniumUtils.java:550)<br />
+              pageobjects.HomePage.topExposuresPopupCheck(HomePage.java:106)<br />
+              testcases.Sanity.SanityTC29(Sanity.java:563)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />
+              sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)<br />
+              sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />
+              java.lang.reflect.Method.invoke(Method.java:483)<br />
+              org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)<br />
+              org.testng.internal.Invoker.invokeMethod(Invoker.java:661)<br />
+              org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)<br />
+              org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)<br />
+              org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)<br />
+              org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)<br />
+              org.testng.TestRunner.privateRun(TestRunner.java:744)<br />
+              org.testng.TestRunner.run(TestRunner.java:602)<br />
+              org.testng.SuiteRunner.runTest(SuiteRunner.java:380)<br />
+              org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)<br />
+              org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)<br />
+              org.testng.SuiteRunner.run(SuiteRunner.java:289)<br />
+              org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)<br />
+              org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)<br />
+              org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)<br />
+              org.testng.TestNG.runSuitesLocally(TestNG.java:1226)<br />
+              org.testng.TestNG.runSuites(TestNG.java:1144)<br />
+              org.testng.TestNG.run(TestNG.java:1115)<br />
+              org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:281)<br />
+              org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)<br />
+              org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:121)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:290)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:242)<br />
+              org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:121)<br />
+                </div>
+      </td>
+</tr>
+      </table>
+
+
+  <table class="resultsTable">
+    <tr><th colspan="3" class="header passed">Passed Tests</th></tr>
+          <tr>
+        <td colspan="3" class="group">testcases.Sanity</td>
+      </tr>
+            
+<tr>
+  <td class="method">
+                  SanityTC1
+      </td>
+  <td class="duration">
+    25.471s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">{TestCaseName=Control Unit - Geography, CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Control Unit - Geography, Level1=Latin America|Brazil|Brazil|BRAZIL, Filtername=, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=Click Add Rule, select Control Unit - Geography. Level 1 - Latin America, Level 2 - Brazil, Level 3 - Brazil, Level 4 _- Brazil, ExpectedResult=Level 1 - Latin America
+Level 2 - Brazil 
+Level 3 - Brazil 
+Level 4 - Brazil}</span><br />
+    
+            <div class="testOutput">
+                        Successfully waited for Button Add Rule to be present on page<br />
+                                Successfully clicked on Button Add Rule element.<br />
+                                Successfully waited for Icon Forward to be present on page<br />
+                                Successfully clicked on Control Unit - Geography checkbox option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for Add Icon to be present on page<br />
+                                Successfully clicked on Add Icon element.<br />
+                                Successfully waited for Latin America checkbox level 1 to be present on page<br />
+                                Successfully clicked on Latin America checkbox level 1 option on tree.<br />
+                                Successfully waited for Level 1 Next Button to be present on page<br />
+                                Successfully clicked on Level 1 Next Button option on tree.<br />
+                                Successfully waited for Brazil checkbox level 2 to be present on page<br />
+                                Successfully clicked on Brazil checkbox level 2 option on tree.<br />
+                                Successfully waited for Level 2 Next Button to be present on page<br />
+                                Successfully clicked on Level 2 Next Button option on tree.<br />
+                                Successfully waited for Brazil checkbox level 3 to be present on page<br />
+                                Successfully clicked on Brazil checkbox level 3 option on tree.<br />
+                                Successfully waited for Level 3 Next Button to be present on page<br />
+                                Successfully clicked on Level 3 Next Button option on tree.<br />
+                                Successfully waited for BRAZIL checkbox level 4 to be present on page<br />
+                                Successfully clicked on BRAZIL checkbox level 4 option on tree.<br />
+                                Successfully clicked on Button Close Pop Up element.<br />
+                                Successfully waited for BRAZIL filter on Home Page to be present on page<br />
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  SanityTC10
+      </td>
+  <td class="duration">
+    13.565s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">{TestCaseName=Portfolio Business Segment (PBS), CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Portfolio Business Segment (PBS), Level1=, Filtername=TREASURY, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Portfolio Business Segment (PBS)" from Exposure Category
+3. Click Add filters (+) and select "TREASURY", ExpectedResult=Portfolio Business Segment (PBS) Dialog should have the value 
+TREASURY}</span><br />
+    
+            <div class="testOutput">
+                        Successfully waited for Button Add Rule to be present on page<br />
+                                Successfully clicked on Button Add Rule element.<br />
+                                Successfully waited for Icon Forward to be present on page<br />
+                                Successfully clicked on Portfolio Business Segment (PBS) checkbox option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for Add Icon to be present on page<br />
+                                Successfully clicked on Add Icon element.<br />
+                                Successfully waited for TREASURY checkbox level 1 to be present on page<br />
+                                Successfully clicked on TREASURY checkbox level 1 option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for TREASURY filter on Home Page to be present on page<br />
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  SanityTC11
+      </td>
+  <td class="duration">
+    23.547s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">{TestCaseName=GFMIS Product , CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=GFMIS Product, Level1=Best Efforts Distribution|Best Efforts Distribution|Best Efforts Distribution|Best Efforts Distribution, Filtername=, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "GFMIS Product " from Exposure Category
+3. Click Add filters (+) and select "Best Efforts Distribution" in all 4 levels, ExpectedResult=GFMIS Product Dialog should have the value 
+Level1 - Best Efforts Distribution
+Level2 - Best Efforts Distribution
+Level3 - Best Efforts Distribution
+Level4 - Best Efforts Distribution}</span><br />
+    
+            <div class="testOutput">
+                        Successfully waited for Button Add Rule to be present on page<br />
+                                Successfully clicked on Button Add Rule element.<br />
+                                Successfully waited for Icon Forward to be present on page<br />
+                                Successfully clicked on GFMIS Product checkbox option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for Add Icon to be present on page<br />
+                                Successfully clicked on Add Icon element.<br />
+                                Successfully waited for Best Efforts Distribution checkbox level 1 to be present on page<br />
+                                Successfully clicked on Best Efforts Distribution checkbox level 1 option on tree.<br />
+                                Successfully waited for Level 1 Next Button to be present on page<br />
+                                Successfully clicked on Level 1 Next Button option on tree.<br />
+                                Successfully waited for Best Efforts Distribution checkbox level 2 to be present on page<br />
+                                Successfully clicked on Best Efforts Distribution checkbox level 2 option on tree.<br />
+                                Successfully waited for Level 2 Next Button to be present on page<br />
+                                Successfully clicked on Level 2 Next Button option on tree.<br />
+                                Successfully waited for Best Efforts Distribution checkbox level 3 to be present on page<br />
+                                Successfully clicked on Best Efforts Distribution checkbox level 3 option on tree.<br />
+                                Successfully waited for Level 3 Next Button to be present on page<br />
+                                Successfully clicked on Level 3 Next Button option on tree.<br />
+                                Successfully waited for Best Efforts Distribution checkbox level 4 to be present on page<br />
+                                Successfully clicked on Best Efforts Distribution checkbox level 4 option on tree.<br />
+                                Successfully clicked on Button Close Pop Up element.<br />
+                                Successfully waited for Best Efforts Distribution filter on Home Page to be present on page<br />
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  SanityTC12
+      </td>
+  <td class="duration">
+    28.504s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">{TestCaseName=GOC, CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=GOC, Level1=, Filtername=#06-0012 AVON CO (EO27060012), TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select GOC from Exposure Category
+3. Click Add filters (+) and select "#06-0012 AVON CO (EO27060012)", ExpectedResult=GOC Dialog should have the value 
+#06-0012 AVON CO (EO27060012)}</span><br />
+    
+            <div class="testOutput">
+                        Successfully waited for Button Add Rule to be present on page<br />
+                                Successfully clicked on Button Add Rule element.<br />
+                                Successfully waited for Icon Forward to be present on page<br />
+                                Successfully clicked on GOC checkbox option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for Add Icon to be present on page<br />
+                                Successfully clicked on Add Icon element.<br />
+                                Successfully waited for #06-0012 AVON CO (EO27060012) checkbox level 1 to be present on page<br />
+                                Successfully clicked on #06-0012 AVON CO (EO27060012) checkbox level 1 option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for #06-0012 AVON CO (EO27060012) filter on Home Page to be present on page<br />
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  SanityTC13
+      </td>
+  <td class="duration">
+    13.480s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">{TestCaseName=GOC Enriched Country, CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=GOC Enriched Country, Level1=, Filtername=AUSTRALIA, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "GOC Enriched Country" from Exposure Category
+3. Click Add filters (+) and select "AUSTRALIA", ExpectedResult=GOC Enriched Country Dialog should have the value AUSTRALIA}</span><br />
+    
+            <div class="testOutput">
+                        Successfully waited for Button Add Rule to be present on page<br />
+                                Successfully clicked on Button Add Rule element.<br />
+                                Successfully waited for Icon Forward to be present on page<br />
+                                Successfully clicked on GOC Enriched Country checkbox option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for Add Icon to be present on page<br />
+                                Successfully clicked on Add Icon element.<br />
+                                Successfully waited for AUSTRALIA checkbox level 1 to be present on page<br />
+                                Successfully clicked on AUSTRALIA checkbox level 1 option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for AUSTRALIA filter on Home Page to be present on page<br />
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  SanityTC14
+      </td>
+  <td class="duration">
+    14.226s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">{TestCaseName=Independent Risk Unit - ID , CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Independent Risk Unit - ID, Level1=, Filtername=AS AGENT REPO (300171)|APEMCT-HK (102147), TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Independent Risk Unit - ID" from Relationship Category
+3. Click Add filters (+) and select "AS AGENT REPO (300171)" from FIRM & "APEMCT-HK (102147)" from GIRM, ExpectedResult=Independent Risk Unit - ID Dialog should have the value "AS AGENT REPO (300171)" in FIRM & "APEMCT-HK (102147)" in GIRM}</span><br />
+    
+            <div class="testOutput">
+                        Successfully waited for Button Add Rule to be present on page<br />
+                                Successfully clicked on Button Add Rule element.<br />
+                                Successfully waited for Icon Forward to be present on page<br />
+                                Successfully clicked on Independent Risk Unit - ID checkbox option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for Add Icon to be present on page<br />
+                                Successfully clicked on Add Icon element.<br />
+                                Successfully waited for AS AGENT REPO (300171) checkbox level 1 to be present on page<br />
+                                Successfully clicked on AS AGENT REPO (300171) checkbox level 1 option on tree.<br />
+                                Successfully waited for APEMCT-HK (102147) checkbox level 1 to be present on page<br />
+                                Successfully clicked on APEMCT-HK (102147) checkbox level 1 option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for AS AGENT REPO (300171) filter on Home Page to be present on page<br />
+                                Successfully waited for APEMCT-HK (102147) filter on Home Page to be present on page<br />
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  SanityTC15
+      </td>
+  <td class="duration">
+    14.615s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">{TestCaseName=Independent Risk Unit - Credit Org, CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Independent Risk Unit - Credit Org, Level1=, Filtername=FIRM|GIRM, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Independent Risk Unit - Credit Org" from Relationship Category
+3. Click Add filters (+) and select "FIRM" & "GIRM", ExpectedResult=Independent Risk Unit - Credit Org Dialog should have the value "FIRM" and "GIRM"}</span><br />
+    
+            <div class="testOutput">
+                        Successfully waited for Button Add Rule to be present on page<br />
+                                Successfully clicked on Button Add Rule element.<br />
+                                Successfully waited for Icon Forward to be present on page<br />
+                                Successfully clicked on Independent Risk Unit - Credit Org checkbox option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for Add Icon to be present on page<br />
+                                Successfully clicked on Add Icon element.<br />
+                                Successfully waited for FIRM checkbox level 1 to be present on page<br />
+                                Successfully clicked on FIRM checkbox level 1 option on tree.<br />
+                                Successfully waited for GIRM checkbox level 1 to be present on page<br />
+                                Successfully clicked on GIRM checkbox level 1 option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for FIRM filter on Home Page to be present on page<br />
+                                Successfully waited for GIRM filter on Home Page to be present on page<br />
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  SanityTC16
+      </td>
+  <td class="duration">
+    24.463s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">{TestCaseName=Independent Risk Unit - Geography, CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Independent Risk Unit - Geography, Level1=EMEA|ISRAEL|ISRAEL|ISRAEL, Filtername=, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Independent Risk Unit - Geography" from Relationship Category
+3. Click Add filters (+) and select the following
+Level 1 - EMEA 
+Level 2 - ISRAEL
+Level 3 - ISRAEL
+Level 4 - ISRAEL, ExpectedResult=Independent Risk Unit - Geography Dialog should have the value 
+Level1 - EMAC
+Level2 - ISRAEL
+Level3 - ISRAEL
+Level4 - ISRAEL}</span><br />
+    
+            <div class="testOutput">
+                        Successfully waited for Button Add Rule to be present on page<br />
+                                Successfully clicked on Button Add Rule element.<br />
+                                Successfully waited for Icon Forward to be present on page<br />
+                                Successfully clicked on Independent Risk Unit - Geography checkbox option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for Add Icon to be present on page<br />
+                                Successfully clicked on Add Icon element.<br />
+                                Successfully waited for EMEA checkbox level 1 to be present on page<br />
+                                Successfully clicked on EMEA checkbox level 1 option on tree.<br />
+                                Successfully waited for Level 1 Next Button to be present on page<br />
+                                Successfully clicked on Level 1 Next Button option on tree.<br />
+                                Successfully waited for ISRAEL checkbox level 2 to be present on page<br />
+                                Successfully clicked on ISRAEL checkbox level 2 option on tree.<br />
+                                Successfully waited for Level 2 Next Button to be present on page<br />
+                                Successfully clicked on Level 2 Next Button option on tree.<br />
+                                Successfully waited for ISRAEL checkbox level 3 to be present on page<br />
+                                Successfully clicked on ISRAEL checkbox level 3 option on tree.<br />
+                                Successfully waited for Level 3 Next Button to be present on page<br />
+                                Successfully clicked on Level 3 Next Button option on tree.<br />
+                                Successfully waited for ISRAEL checkbox level 4 to be present on page<br />
+                                Successfully clicked on ISRAEL checkbox level 4 option on tree.<br />
+                                Successfully clicked on Button Close Pop Up element.<br />
+                                Successfully waited for ISRAEL filter on Home Page to be present on page<br />
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  SanityTC18
+      </td>
+  <td class="duration">
+    25.782s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">{TestCaseName=Risk Management Industry, CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Risk Management Industry, Level1=Education|Education Services|Edu - Primary School|Edu - Schools Grade K-12 - Private, Filtername=, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Risk Management Industry" from Relationship Category
+3. Click Add filters (+) and select the following
+Level 1 - Education
+Level 2 - Education Services
+Level 3 - Edu - Primary School
+Level 4 - Edu - Schools Grade K-12 - Private, ExpectedResult=Risk Management Industry Dialog should have the value 
+Level 1 - Education
+Level 2 - Education Services
+Level 3 - Edu - Primary School
+Level 4 - Edu - Schools Grade K-12 - Private}</span><br />
+    
+            <div class="testOutput">
+                        Successfully waited for Button Add Rule to be present on page<br />
+                                Successfully clicked on Button Add Rule element.<br />
+                                Successfully waited for Icon Forward to be present on page<br />
+                                Successfully clicked on Risk Management Industry checkbox option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for Add Icon to be present on page<br />
+                                Successfully clicked on Add Icon element.<br />
+                                Successfully waited for Education checkbox level 1 to be present on page<br />
+                                Successfully clicked on Education checkbox level 1 option on tree.<br />
+                                Successfully waited for Level 1 Next Button to be present on page<br />
+                                Successfully clicked on Level 1 Next Button option on tree.<br />
+                                Successfully waited for Education Services checkbox level 2 to be present on page<br />
+                                Successfully clicked on Education Services checkbox level 2 option on tree.<br />
+                                Successfully waited for Level 2 Next Button to be present on page<br />
+                                Successfully clicked on Level 2 Next Button option on tree.<br />
+                                Successfully waited for Edu - Primary School checkbox level 3 to be present on page<br />
+                                Successfully clicked on Edu - Primary School checkbox level 3 option on tree.<br />
+                                Successfully waited for Level 3 Next Button to be present on page<br />
+                                Successfully clicked on Level 3 Next Button option on tree.<br />
+                                Successfully waited for Edu - Schools Grade K-12 - Private checkbox level 4 to be present on page<br />
+                                Successfully clicked on Edu - Schools Grade K-12 - Private checkbox level 4 option on tree.<br />
+                                Successfully clicked on Button Close Pop Up element.<br />
+                                Successfully waited for Edu - Schools Grade K-12 - Private filter on Home Page to be present on page<br />
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  SanityTC19
+      </td>
+  <td class="duration">
+    59.059s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">{TestCaseName=Name, CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Name, Level1=, Filtername=(IZ)QUEENCO LIMITED (1009174296), TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select Name from Relationship Category
+3. Click Add filters (+) and select "(IZ)QUEENCO LIMITED (1009174296)", ExpectedResult=Name Dialog should have the value (IZ)QUEENCO LIMITED (1009174296)}</span><br />
+    
+            <div class="testOutput">
+                        Successfully waited for Button Add Rule to be present on page<br />
+                                Successfully clicked on Button Add Rule element.<br />
+                                Successfully waited for Icon Forward to be present on page<br />
+                                Successfully clicked on Name checkbox option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for Add Icon to be present on page<br />
+                                Successfully clicked on Add Icon element.<br />
+                                Successfully waited for (IZ)QUEENCO LIMITED (1009174296) checkbox level 1 to be present on page<br />
+                                Successfully clicked on (IZ)QUEENCO LIMITED (1009174296) checkbox level 1 option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for (IZ)QUEENCO LIMITED (1009174296) filter on Home Page to be present on page<br />
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  SanityTC20
+      </td>
+  <td class="duration">
+    14.212s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">{TestCaseName=Independent Risk Unit - Credit Coverage Area, CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Independent Risk Unit - Credit Coverage Area, Level1=, Filtername=Banks, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Independent Risk Unit - Credit Coverage Area"  from Relationship Category
+3. Click Add filters (+) and select Banks, ExpectedResult=Independent Risk Unit - Credit Coverage Area Dialog should have the value Banks}</span><br />
+    
+            <div class="testOutput">
+                        Successfully waited for Button Add Rule to be present on page<br />
+                                Successfully clicked on Button Add Rule element.<br />
+                                Successfully waited for Icon Forward to be present on page<br />
+                                Successfully clicked on Independent Risk Unit - Credit Coverage Area checkbox option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for Add Icon to be present on page<br />
+                                Successfully clicked on Add Icon element.<br />
+                                Successfully waited for Banks checkbox level 1 to be present on page<br />
+                                Successfully clicked on Banks checkbox level 1 option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for Banks filter on Home Page to be present on page<br />
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  SanityTC21
+      </td>
+  <td class="duration">
+    14.689s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">{TestCaseName=Control Unit - ID , CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Control Unit - ID, Level1=, Filtername=AME HEALTH&LIFE INSU (107251)|CCB CTL RMU TW (106580)|CITI ADMIN SERV INC (107249), TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Control Unit - ID "  from Obligor Category
+3. Click Add filters (+) and select "AME HEALTH&LIFE INSU (107251)", "CCB CTL RMU TW (106580)", "CITI ADMIN SERV INC (107249)"  from BANKING BK, ExpectedResult=Control Unit - ID Dialog should have the value "AME HEALTH&LIFE INSU (107251)", "CCB CTL RMU TW (106580)", "CITI ADMIN SERV INC (107249)"}</span><br />
+    
+            <div class="testOutput">
+                        Successfully waited for Button Add Rule to be present on page<br />
+                                Successfully clicked on Button Add Rule element.<br />
+                                Successfully waited for Icon Forward to be present on page<br />
+                                Successfully clicked on Control Unit - ID checkbox option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for Add Icon to be present on page<br />
+                                Successfully clicked on Add Icon element.<br />
+                                Successfully waited for AME HEALTH&amp;LIFE INSU (107251) checkbox level 1 to be present on page<br />
+                                Successfully clicked on AME HEALTH&amp;LIFE INSU (107251) checkbox level 1 option on tree.<br />
+                                Successfully waited for CCB CTL RMU TW (106580) checkbox level 1 to be present on page<br />
+                                Successfully clicked on CCB CTL RMU TW (106580) checkbox level 1 option on tree.<br />
+                                Successfully waited for CITI ADMIN SERV INC (107249) checkbox level 1 to be present on page<br />
+                                Successfully clicked on CITI ADMIN SERV INC (107249) checkbox level 1 option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for AME HEALTH&amp;LIFE INSU (107251) filter on Home Page to be present on page<br />
+                                Successfully waited for CCB CTL RMU TW (106580) filter on Home Page to be present on page<br />
+                                Successfully waited for CITI ADMIN SERV INC (107249) filter on Home Page to be present on page<br />
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  SanityTC22
+      </td>
+  <td class="duration">
+    14.536s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">{TestCaseName=Control Unit - Credit Org, CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Control Unit - Credit Org, Level1=, Filtername=GTS|RE, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Control Unit - Credit Org "  from Obligor Category
+3. Click Add filters (+) and select "GTS", "RE" , ExpectedResult=Control Unit - Credit Org Dialog should have the value "GTS", "RE" }</span><br />
+    
+            <div class="testOutput">
+                        Successfully waited for Button Add Rule to be present on page<br />
+                                Successfully clicked on Button Add Rule element.<br />
+                                Successfully waited for Icon Forward to be present on page<br />
+                                Successfully clicked on Control Unit - Credit Org checkbox option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for Add Icon to be present on page<br />
+                                Successfully clicked on Add Icon element.<br />
+                                Successfully waited for GTS checkbox level 1 to be present on page<br />
+                                Successfully clicked on GTS checkbox level 1 option on tree.<br />
+                                Successfully waited for RE checkbox level 1 to be present on page<br />
+                                Successfully clicked on RE checkbox level 1 option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for GTS filter on Home Page to be present on page<br />
+                                Successfully waited for RE filter on Home Page to be present on page<br />
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  SanityTC23
+      </td>
+  <td class="duration">
+    24.166s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">{TestCaseName=Control Unit - Geography , CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Control Unit - Geography, Level1=EMEA|ISRAEL|ISRAEL|ISRAEL, Filtername=, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Control Unit - Geography" from Obligor Category
+3. Click Add filters (+) and select the following
+Level 1 - EMEA 
+Level 2 - ISRAEL
+Level 3 - ISRAEL
+Level 4 - ISRAEL, ExpectedResult=Control Unit - Geography Dialog should have the value 
+Level1 - EMAC
+Level2 - ISRAEL
+Level3 - ISRAEL
+Level4 - ISRAEL}</span><br />
+    
+            <div class="testOutput">
+                        Successfully waited for Button Add Rule to be present on page<br />
+                                Successfully clicked on Button Add Rule element.<br />
+                                Successfully waited for Icon Forward to be present on page<br />
+                                Successfully clicked on Control Unit - Geography checkbox option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for Add Icon to be present on page<br />
+                                Successfully clicked on Add Icon element.<br />
+                                Successfully waited for EMEA checkbox level 1 to be present on page<br />
+                                Successfully clicked on EMEA checkbox level 1 option on tree.<br />
+                                Successfully waited for Level 1 Next Button to be present on page<br />
+                                Successfully clicked on Level 1 Next Button option on tree.<br />
+                                Successfully waited for ISRAEL checkbox level 2 to be present on page<br />
+                                Successfully clicked on ISRAEL checkbox level 2 option on tree.<br />
+                                Successfully waited for Level 2 Next Button to be present on page<br />
+                                Successfully clicked on Level 2 Next Button option on tree.<br />
+                                Successfully waited for ISRAEL checkbox level 3 to be present on page<br />
+                                Successfully clicked on ISRAEL checkbox level 3 option on tree.<br />
+                                Successfully waited for Level 3 Next Button to be present on page<br />
+                                Successfully clicked on Level 3 Next Button option on tree.<br />
+                                Successfully waited for ISRAEL checkbox level 4 to be present on page<br />
+                                Successfully clicked on ISRAEL checkbox level 4 option on tree.<br />
+                                Successfully clicked on Button Close Pop Up element.<br />
+                                Successfully waited for ISRAEL filter on Home Page to be present on page<br />
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  SanityTC24
+      </td>
+  <td class="duration">
+    24.756s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">{TestCaseName=Geography At Risk, CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Geography At Risk, Level1=EMEA|ISRAEL|ISRAEL|ISRAEL, Filtername=, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Geography At Risk" from Obligor Category
+3. Click Add filters (+) and select the following
+Level 1 - EMEA 
+Level 2 - ISRAEL
+Level 3 - ISRAEL
+Level 4 - ISRAEL, ExpectedResult=Geography At Risk Dialog should have the value 
+Level1 - EMAC
+Level2 - ISRAEL
+Level3 - ISRAEL
+Level4 - ISRAEL}</span><br />
+    
+            <div class="testOutput">
+                        Successfully waited for Button Add Rule to be present on page<br />
+                                Successfully clicked on Button Add Rule element.<br />
+                                Successfully waited for Icon Forward to be present on page<br />
+                                Successfully clicked on Geography At Risk checkbox option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for Add Icon to be present on page<br />
+                                Successfully clicked on Add Icon element.<br />
+                                Successfully waited for EMEA checkbox level 1 to be present on page<br />
+                                Successfully clicked on EMEA checkbox level 1 option on tree.<br />
+                                Successfully waited for Level 1 Next Button to be present on page<br />
+                                Successfully clicked on Level 1 Next Button option on tree.<br />
+                                Successfully waited for ISRAEL checkbox level 2 to be present on page<br />
+                                Successfully clicked on ISRAEL checkbox level 2 option on tree.<br />
+                                Successfully waited for Level 2 Next Button to be present on page<br />
+                                Successfully clicked on Level 2 Next Button option on tree.<br />
+                                Successfully waited for ISRAEL checkbox level 3 to be present on page<br />
+                                Successfully clicked on ISRAEL checkbox level 3 option on tree.<br />
+                                Successfully waited for Level 3 Next Button to be present on page<br />
+                                Successfully clicked on Level 3 Next Button option on tree.<br />
+                                Successfully waited for ISRAEL checkbox level 4 to be present on page<br />
+                                Successfully clicked on ISRAEL checkbox level 4 option on tree.<br />
+                                Successfully clicked on Button Close Pop Up element.<br />
+                                Successfully waited for ISRAEL filter on Home Page to be present on page<br />
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  SanityTC25
+      </td>
+  <td class="duration">
+    14.942s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">{TestCaseName=Approving Unit - ID, CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Approving Unit - ID, Level1=, Filtername=AS AGENT REPO (300171)|APEMCT-HK (102147), TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Approving Unit - ID" from Facility Category
+3. Click Add filters (+) and select "AS AGENT REPO (300171)" from FIRM & "APEMCT-HK (102147)" from GIRM, ExpectedResult=Approving Unit - ID dialog should have the value "AS AGENT REPO (300171)" in FIRM & "APEMCT-HK (102147)" in GIRM}</span><br />
+    
+            <div class="testOutput">
+                        Successfully waited for Button Add Rule to be present on page<br />
+                                Successfully clicked on Button Add Rule element.<br />
+                                Successfully waited for Icon Forward to be present on page<br />
+                                Successfully clicked on Approving Unit - ID checkbox option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for Add Icon to be present on page<br />
+                                Successfully clicked on Add Icon element.<br />
+                                Successfully waited for AS AGENT REPO (300171) checkbox level 1 to be present on page<br />
+                                Successfully clicked on AS AGENT REPO (300171) checkbox level 1 option on tree.<br />
+                                Successfully waited for APEMCT-HK (102147) checkbox level 1 to be present on page<br />
+                                Successfully clicked on APEMCT-HK (102147) checkbox level 1 option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for AS AGENT REPO (300171) filter on Home Page to be present on page<br />
+                                Successfully waited for APEMCT-HK (102147) filter on Home Page to be present on page<br />
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  SanityTC26
+      </td>
+  <td class="duration">
+    24.578s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">{TestCaseName=Approving Unit - Geography, CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Approving Unit - Geography, Level1=EMEA|ISRAEL|ISRAEL|ISRAEL, Filtername=, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Approving Unit - Geography" from Facility Category
+3. Click Add filters (+) and select the following
+Level 1 - EMEA 
+Level 2 - ISRAEL
+Level 3 - ISRAEL
+Level 4 - ISRAEL, ExpectedResult=Approving Unit - Geography dialog should have the value 
+Level1 - EMAC
+Level2 - ISRAEL
+Level3 - ISRAEL
+Level4 - ISRAEL}</span><br />
+    
+            <div class="testOutput">
+                        Successfully waited for Button Add Rule to be present on page<br />
+                                Successfully clicked on Button Add Rule element.<br />
+                                Successfully waited for Icon Forward to be present on page<br />
+                                Successfully clicked on Approving Unit - Geography checkbox option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for Add Icon to be present on page<br />
+                                Successfully clicked on Add Icon element.<br />
+                                Successfully waited for EMEA checkbox level 1 to be present on page<br />
+                                Successfully clicked on EMEA checkbox level 1 option on tree.<br />
+                                Successfully waited for Level 1 Next Button to be present on page<br />
+                                Successfully clicked on Level 1 Next Button option on tree.<br />
+                                Successfully waited for ISRAEL checkbox level 2 to be present on page<br />
+                                Successfully clicked on ISRAEL checkbox level 2 option on tree.<br />
+                                Successfully waited for Level 2 Next Button to be present on page<br />
+                                Successfully clicked on Level 2 Next Button option on tree.<br />
+                                Successfully waited for ISRAEL checkbox level 3 to be present on page<br />
+                                Successfully clicked on ISRAEL checkbox level 3 option on tree.<br />
+                                Successfully waited for Level 3 Next Button to be present on page<br />
+                                Successfully clicked on Level 3 Next Button option on tree.<br />
+                                Successfully waited for ISRAEL checkbox level 4 to be present on page<br />
+                                Successfully clicked on ISRAEL checkbox level 4 option on tree.<br />
+                                Successfully clicked on Button Close Pop Up element.<br />
+                                Successfully waited for ISRAEL filter on Home Page to be present on page<br />
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  SanityTC27
+      </td>
+  <td class="duration">
+    15.737s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">{TestCaseName=Classification Status, CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Classification Status, Level1=, Filtername=Pass|Loss, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Classification Status"  from Facility Category
+3. Click Add filters (+) and select "Pass", "Loss" , ExpectedResult=Classification Status dialog should have the value "Pass", "Loss" 
+}</span><br />
+    
+            <div class="testOutput">
+                        Successfully waited for Button Add Rule to be present on page<br />
+                                Successfully clicked on Button Add Rule element.<br />
+                                Successfully waited for Icon Forward to be present on page<br />
+                                Successfully clicked on Classification Status checkbox option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for Add Icon to be present on page<br />
+                                Successfully clicked on Add Icon element.<br />
+                                Successfully waited for Pass checkbox level 1 to be present on page<br />
+                                Successfully clicked on Pass checkbox level 1 option on tree.<br />
+                                Successfully waited for Loss checkbox level 1 to be present on page<br />
+                                Successfully clicked on Loss checkbox level 1 option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for Pass filter on Home Page to be present on page<br />
+                                Successfully waited for Loss filter on Home Page to be present on page<br />
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  SanityTC28
+      </td>
+  <td class="duration">
+    17.036s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">{TestCaseName=Extending Unit - ID, CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Extending Unit - ID, Level1=, Filtername=ACCIVAL - REPO (107200)|APEMCT-HK (102147), TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Extending Unit - ID" from Facility Category
+3. Click Add filters (+) and select "ACCIVAL - REPO (107200)" from FIRM & "APEMCT-HK (102147)" from GIRM, ExpectedResult=Extending Unit - ID dialog should have the value "ACCIVAL - REPO (107200)" in FIRM & "APEMCT-HK (102147)" in GIRM}</span><br />
+    
+            <div class="testOutput">
+                        Successfully waited for Button Add Rule to be present on page<br />
+                                Successfully clicked on Button Add Rule element.<br />
+                                Successfully waited for Icon Forward to be present on page<br />
+                                Successfully clicked on Extending Unit - ID checkbox option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for Add Icon to be present on page<br />
+                                Successfully clicked on Add Icon element.<br />
+                                Successfully waited for ACCIVAL - REPO (107200) checkbox level 1 to be present on page<br />
+                                Successfully clicked on ACCIVAL - REPO (107200) checkbox level 1 option on tree.<br />
+                                Successfully waited for APEMCT-HK (102147) checkbox level 1 to be present on page<br />
+                                Successfully clicked on APEMCT-HK (102147) checkbox level 1 option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for ACCIVAL - REPO (107200) filter on Home Page to be present on page<br />
+                                Successfully waited for APEMCT-HK (102147) filter on Home Page to be present on page<br />
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  SanityTC3
+      </td>
+  <td class="duration">
+    15.852s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">{TestCaseName=Level 3 Client Owner, CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Level 3 Client Owner, Level1=, Filtername=CITI, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Level 3 Client Owner" for CIS Hierarchy Category
+3. Click Add filters (+) and select CITI, ExpectedResult=Level 3 Client Owner Dialog should have the value CITI}</span><br />
+    
+            <div class="testOutput">
+                        Successfully waited for Button Add Rule to be present on page<br />
+                                Successfully clicked on Button Add Rule element.<br />
+                                Successfully waited for Icon Forward to be present on page<br />
+                                Successfully clicked on Level 3 Client Owner checkbox option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for Add Icon to be present on page<br />
+                                Successfully clicked on Add Icon element.<br />
+                                Successfully waited for CITI checkbox level 1 to be present on page<br />
+                                Successfully clicked on CITI checkbox level 1 option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for CITI filter on Home Page to be present on page<br />
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  SanityTC30
+      </td>
+  <td class="duration">
+    25.389s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">{TestCaseName=Extending Unit - Geography , CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Extending Unit - Geography, Level1=EMEA|ISRAEL|ISRAEL|ISRAEL, Filtername=, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Extending Unit - Geography " from Facility Category
+3. Click Add filters (+) and select the following
+Level 1 - EMEA 
+Level 2 - ISRAEL
+Level 3 - ISRAEL
+Level 4 - ISRAEL, ExpectedResult=Extending Unit - Geography dialog should have the value 
+Level1 - EMAC
+Level2 - ISRAEL
+Level3 - ISRAEL
+Level4 - ISRAEL}</span><br />
+    
+            <div class="testOutput">
+                        Successfully waited for Button Add Rule to be present on page<br />
+                                Successfully clicked on Button Add Rule element.<br />
+                                Successfully waited for Icon Forward to be present on page<br />
+                                Successfully clicked on Extending Unit - Geography checkbox option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for Add Icon to be present on page<br />
+                                Successfully clicked on Add Icon element.<br />
+                                Successfully waited for EMEA checkbox level 1 to be present on page<br />
+                                Successfully clicked on EMEA checkbox level 1 option on tree.<br />
+                                Successfully waited for Level 1 Next Button to be present on page<br />
+                                Successfully clicked on Level 1 Next Button option on tree.<br />
+                                Successfully waited for ISRAEL checkbox level 2 to be present on page<br />
+                                Successfully clicked on ISRAEL checkbox level 2 option on tree.<br />
+                                Successfully waited for Level 2 Next Button to be present on page<br />
+                                Successfully clicked on Level 2 Next Button option on tree.<br />
+                                Successfully waited for ISRAEL checkbox level 3 to be present on page<br />
+                                Successfully clicked on ISRAEL checkbox level 3 option on tree.<br />
+                                Successfully waited for Level 3 Next Button to be present on page<br />
+                                Successfully clicked on Level 3 Next Button option on tree.<br />
+                                Successfully waited for ISRAEL checkbox level 4 to be present on page<br />
+                                Successfully clicked on ISRAEL checkbox level 4 option on tree.<br />
+                                Successfully clicked on Button Close Pop Up element.<br />
+                                Successfully waited for ISRAEL filter on Home Page to be present on page<br />
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  SanityTC31
+      </td>
+  <td class="duration">
+    15.980s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">{TestCaseName=Credit Program Specialized Product Name, CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Credit Program Specialized Product Name, Level1=, Filtername=BILLS NEGOTIATED|CHEQUES PURCHASED, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Credit Program Specialized Product Name" from Facility Category
+3. Click Add filters (+) and select "BILLS NEGOTIATED" , "CHEQUES PURCHASED" , ExpectedResult=Credit Program Specialized Product Name dialog should have the value "BILLS NEGOTIATED" , "CHEQUES PURCHASED" }</span><br />
+    
+            <div class="testOutput">
+                        Successfully waited for Button Add Rule to be present on page<br />
+                                Successfully clicked on Button Add Rule element.<br />
+                                Successfully waited for Icon Forward to be present on page<br />
+                                Successfully clicked on Credit Program Specialized Product Name checkbox option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for Add Icon to be present on page<br />
+                                Successfully clicked on Add Icon element.<br />
+                                Successfully waited for BILLS NEGOTIATED checkbox level 1 to be present on page<br />
+                                Successfully clicked on BILLS NEGOTIATED checkbox level 1 option on tree.<br />
+                                Successfully waited for CHEQUES PURCHASED checkbox level 1 to be present on page<br />
+                                Successfully clicked on CHEQUES PURCHASED checkbox level 1 option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for BILLS NEGOTIATED filter on Home Page to be present on page<br />
+                                Successfully waited for CHEQUES PURCHASED filter on Home Page to be present on page<br />
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  SanityTC32
+      </td>
+  <td class="duration">
+    15.809s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">{TestCaseName=Long Description , CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Long Description, Level1=, Filtername=BILLS NEGOTIATED|CHEQUES PURCHASED, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Long Description" from Facility Category
+3. Click Add filters (+) and select "BILLS NEGOTIATED" , "CHEQUES PURCHASED" , ExpectedResult=Long Description dialog should have the value "BILLS NEGOTIATED" , "CHEQUES PURCHASED" }</span><br />
+    
+            <div class="testOutput">
+                        Successfully waited for Button Add Rule to be present on page<br />
+                                Successfully clicked on Button Add Rule element.<br />
+                                Successfully waited for Icon Forward to be present on page<br />
+                                Successfully clicked on Long Description checkbox option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for Add Icon to be present on page<br />
+                                Successfully clicked on Add Icon element.<br />
+                                Successfully waited for BILLS NEGOTIATED checkbox level 1 to be present on page<br />
+                                Successfully clicked on BILLS NEGOTIATED checkbox level 1 option on tree.<br />
+                                Successfully waited for CHEQUES PURCHASED checkbox level 1 to be present on page<br />
+                                Successfully clicked on CHEQUES PURCHASED checkbox level 1 option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for BILLS NEGOTIATED filter on Home Page to be present on page<br />
+                                Successfully waited for CHEQUES PURCHASED filter on Home Page to be present on page<br />
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  SanityTC33
+      </td>
+  <td class="duration">
+    16.905s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">{TestCaseName=Include Intercompany, CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Include Intercompany, Level1=, Filtername=, TestCaseDescription =check whether data the top exposure dialog is displayed, Steps to execute=1.Click Add Rule
+2. Select "Include Intercompany " from Facility Category
+3. select Yes and click Review Button on the right top corner, ExpectedResult=Top Exposures dialog box should be displayed}</span><br />
+    
+            <div class="testOutput">
+                        Successfully waited for Button Add Rule to be present on page<br />
+                                Successfully clicked on Button Add Rule element.<br />
+                                Successfully waited for Icon Forward to be present on page<br />
+                                Successfully clicked on Include Intercompany checkbox option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for Yes radio button Include Intercompany to be present on page<br />
+                                Successfully clicked on Yes radio button Include Intercompany option on tree.<br />
+                                Successfully waited for Review Icon to be present on page<br />
+                                Successfully clicked on Review Icon element.<br />
+                                Successfully waited for Top Exposures pop up header to be present on page<br />
+                                Successfully waited for Top Exposures pop up first cell data to be present on page<br />
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  SanityTC34
+      </td>
+  <td class="duration">
+    15.925s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">{TestCaseName=Include Leveraged Lending Exposures, CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Include Leveraged Lending Exposures, Level1=, Filtername=Direct Leveraged Lending, Core Dive, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Include Leveraged Lending Exposures" from Facility Category
+3. Click Add filters (+) and select "Direct Leveraged Lending, Core Diversified exposure", ExpectedResult=Long Description dialog should have the value  "Direct Leveraged Lending, Core Diversified exposure"}</span><br />
+    
+            <div class="testOutput">
+                        Successfully waited for Button Add Rule to be present on page<br />
+                                Successfully clicked on Button Add Rule element.<br />
+                                Successfully waited for Icon Forward to be present on page<br />
+                                Successfully clicked on Include Leveraged Lending Exposures checkbox option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for Add Icon to be present on page<br />
+                                Successfully clicked on Add Icon element.<br />
+                                Successfully waited for Direct Leveraged Lending, Core Dive checkbox level 1 to be present on page<br />
+                                Successfully clicked on Direct Leveraged Lending, Core Dive checkbox level 1 option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for Direct Leveraged Lending, Core Dive filter on Home Page to be present on page<br />
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  SanityTC35
+      </td>
+  <td class="duration">
+    15.785s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">{TestCaseName=Product Program, CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Product Program, Level1=, Filtername=Law Firm Finance|Lawyer Financing, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Product Program" from Facility Category
+3. Click Add filters (+) and select "Law Firm Finance", "Lawyer Financing", ExpectedResult=Product Program dialog should have the value  "Law Firm Finance", "Lawyer Financing"}</span><br />
+    
+            <div class="testOutput">
+                        Successfully waited for Button Add Rule to be present on page<br />
+                                Successfully clicked on Button Add Rule element.<br />
+                                Successfully waited for Icon Forward to be present on page<br />
+                                Successfully clicked on Product Program checkbox option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for Add Icon to be present on page<br />
+                                Successfully clicked on Add Icon element.<br />
+                                Successfully waited for Law Firm Finance checkbox level 1 to be present on page<br />
+                                Successfully clicked on Law Firm Finance checkbox level 1 option on tree.<br />
+                                Successfully waited for Lawyer Financing checkbox level 1 to be present on page<br />
+                                Successfully clicked on Lawyer Financing checkbox level 1 option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for Law Firm Finance filter on Home Page to be present on page<br />
+                                Successfully waited for Lawyer Financing filter on Home Page to be present on page<br />
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  SanityTC4
+      </td>
+  <td class="duration">
+    18.896s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">{TestCaseName=Exclude Fronting, CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=PASS, AddRule=Exclude Fronting, Level1=, Filtername=, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Exclude Fronting" from Exposure Category
+3. select Yes and click Review Button on the right top corner, ExpectedResult=Top Exposures dialog box should be displayed}</span><br />
+    
+            <div class="testOutput">
+                        Successfully waited for Button Add Rule to be present on page<br />
+                                Successfully clicked on Button Add Rule element.<br />
+                                Successfully waited for Icon Forward to be present on page<br />
+                                Successfully clicked on Exclude Fronting checkbox option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for Yes radio button Exclude Fronting to be present on page<br />
+                                Successfully clicked on Yes radio button Exclude Fronting option on tree.<br />
+                                Successfully waited for Review Icon to be present on page<br />
+                                Successfully clicked on Review Icon element.<br />
+                                Successfully waited for Top Exposures pop up header to be present on page<br />
+                                Successfully waited for Top Exposures pop up first cell data to be present on page<br />
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  SanityTC5
+      </td>
+  <td class="duration">
+    27.286s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">{TestCaseName=Legal Vehicle , CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Legal Vehicle, Level1=, Filtername=089ELIM (EM090), TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Legal Vehicle" from Exposure Category
+3. Click Add filters (+) and select "089ELIM (EM090)", ExpectedResult=Legal Vehicle Dialog should have the value 089ELIM (EM090)}</span><br />
+    
+            <div class="testOutput">
+                        Successfully waited for Button Add Rule to be present on page<br />
+                                Successfully clicked on Button Add Rule element.<br />
+                                Successfully waited for Icon Forward to be present on page<br />
+                                Successfully clicked on Legal Vehicle checkbox option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for Add Icon to be present on page<br />
+                                Successfully clicked on Add Icon element.<br />
+                                Successfully waited for 089ELIM (EM090) checkbox level 1 to be present on page<br />
+                                Successfully clicked on 089ELIM (EM090) checkbox level 1 option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for 089ELIM (EM090) filter on Home Page to be present on page<br />
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  SanityTC6
+      </td>
+  <td class="duration">
+    16.273s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">{TestCaseName=Legal Entity, CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Legal Entity, Level1=, Filtername=AO CITIBANK (1001349844), TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Legal Entity" from Exposure Category
+3. Click Add filters (+) and select "AO CITIBANK (1001349844)", ExpectedResult=Legal Entity Dialog should have the value AO CITIBANK (1001349844)}</span><br />
+    
+            <div class="testOutput">
+                        Successfully waited for Button Add Rule to be present on page<br />
+                                Successfully clicked on Button Add Rule element.<br />
+                                Successfully waited for Icon Forward to be present on page<br />
+                                Successfully clicked on Legal Entity checkbox option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for Add Icon to be present on page<br />
+                                Successfully clicked on Add Icon element.<br />
+                                Successfully waited for AO CITIBANK (1001349844) checkbox level 1 to be present on page<br />
+                                Successfully clicked on AO CITIBANK (1001349844) checkbox level 1 option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for AO CITIBANK (1001349844) filter on Home Page to be present on page<br />
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  SanityTC7
+      </td>
+  <td class="duration">
+    17.531s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">{TestCaseName=Management Product Level, CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Management Product Level, Level1=, Filtername=Commodities (20200990000), TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Management Product Level" from Exposure Category
+3. Click Add filters (+) and select "Commodities (20200990000)", ExpectedResult=Management Product Level Dialog should have the value Commodities (20200990000)}</span><br />
+    
+            <div class="testOutput">
+                        Successfully waited for Button Add Rule to be present on page<br />
+                                Successfully clicked on Button Add Rule element.<br />
+                                Successfully waited for Icon Forward to be present on page<br />
+                                Successfully clicked on Management Product Level checkbox option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for Add Icon to be present on page<br />
+                                Successfully clicked on Add Icon element.<br />
+                                Successfully waited for Commodities (20200990000) checkbox level 1 to be present on page<br />
+                                Successfully clicked on Commodities (20200990000) checkbox level 1 option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for Commodities (20200990000) filter on Home Page to be present on page<br />
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  SanityTC8
+      </td>
+  <td class="duration">
+    22.428s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">{TestCaseName=Managed Segment , CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Managed Segment, Level1=, Filtername=Admin [L6] (23920), TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Managed Segment" from Exposure Category
+3. Click Add filters (+) and select "Admin [L6] (23920)", ExpectedResult=Managed Segment  Dialog should have the value Admin [L6] (23920)}</span><br />
+    
+            <div class="testOutput">
+                        Successfully waited for Button Add Rule to be present on page<br />
+                                Successfully clicked on Button Add Rule element.<br />
+                                Successfully waited for Icon Forward to be present on page<br />
+                                Successfully clicked on Managed Segment checkbox option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for Add Icon to be present on page<br />
+                                Successfully clicked on Add Icon element.<br />
+                                Successfully waited for Admin [L6] (23920) checkbox level 1 to be present on page<br />
+                                Successfully clicked on Admin [L6] (23920) checkbox level 1 option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for Admin [L6] (23920) filter on Home Page to be present on page<br />
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  SanityTC9
+      </td>
+  <td class="duration">
+    16.258s
+  </td>
+  <td class="result">
+        
+          <i>Method arguments: </i><span class="arguments">{TestCaseName=OS GOC Managed Segment L6 Name, CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=OS GOC Managed Segment L6 Name, Level1=, Filtername=CAO O&T Admin [L6] (23417), TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "OS GOC Managed Segment L6 Name" from Exposure Category
+3. Click Add filters (+) and select "CAO O&T Admin [L6] (23417)", ExpectedResult=OS GOC Managed Segment L6 Name Dialog should have the value CAO O&T Admin [L6] (23417)}</span><br />
+    
+            <div class="testOutput">
+                        Successfully waited for Button Add Rule to be present on page<br />
+                                Successfully clicked on Button Add Rule element.<br />
+                                Successfully waited for Icon Forward to be present on page<br />
+                                Successfully clicked on OS GOC Managed Segment L6 Name checkbox option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for Add Icon to be present on page<br />
+                                Successfully clicked on Add Icon element.<br />
+                                Successfully waited for CAO O&amp;T Admin [L6] (23417) checkbox level 1 to be present on page<br />
+                                Successfully clicked on CAO O&amp;T Admin [L6] (23417) checkbox level 1 option on tree.<br />
+                                Successfully clicked on Close Icon Add Rule Pop Up element.<br />
+                                Successfully waited for CAO O&amp;T Admin [L6] (23417) filter on Home Page to be present on page<br />
+                  </div>
+    
+
+      </td>
+</tr>
+      </table>
+  
+</body>
+</html>

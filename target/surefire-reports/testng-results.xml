@@ -1,0 +1,4291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="3" ignored="0" total="35" passed="32">
+  <reporter-output>
+    <line>
+      <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Button Add Rule element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Control Unit - Geography checkbox option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Add Icon to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Add Icon element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Latin America checkbox level 1 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Latin America checkbox level 1 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Level 1 Next Button to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Level 1 Next Button option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Brazil checkbox level 2 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Brazil checkbox level 2 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Level 2 Next Button to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Level 2 Next Button option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Brazil checkbox level 3 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Brazil checkbox level 3 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Level 3 Next Button to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Level 3 Next Button option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for BRAZIL checkbox level 4 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on BRAZIL checkbox level 4 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Button Close Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for BRAZIL filter on Home Page to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC1 is PASS]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Button Add Rule element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Portfolio Business Segment (PBS) checkbox option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Add Icon to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Add Icon element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for TREASURY checkbox level 1 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on TREASURY checkbox level 1 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for TREASURY filter on Home Page to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC10 is PASS]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Button Add Rule element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on GFMIS Product checkbox option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Add Icon to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Add Icon element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Best Efforts Distribution checkbox level 1 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Best Efforts Distribution checkbox level 1 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Level 1 Next Button to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Level 1 Next Button option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Best Efforts Distribution checkbox level 2 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Best Efforts Distribution checkbox level 2 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Level 2 Next Button to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Level 2 Next Button option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Best Efforts Distribution checkbox level 3 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Best Efforts Distribution checkbox level 3 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Level 3 Next Button to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Level 3 Next Button option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Best Efforts Distribution checkbox level 4 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Best Efforts Distribution checkbox level 4 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Button Close Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Best Efforts Distribution filter on Home Page to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC11 is PASS]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Button Add Rule element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on GOC checkbox option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Add Icon to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Add Icon element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for #06-0012 AVON CO (EO27060012) checkbox level 1 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on #06-0012 AVON CO (EO27060012) checkbox level 1 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for #06-0012 AVON CO (EO27060012) filter on Home Page to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC12 is PASS]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Button Add Rule element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on GOC Enriched Country checkbox option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Add Icon to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Add Icon element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for AUSTRALIA checkbox level 1 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on AUSTRALIA checkbox level 1 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for AUSTRALIA filter on Home Page to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC13 is PASS]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Button Add Rule element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Independent Risk Unit - ID checkbox option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Add Icon to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Add Icon element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for AS AGENT REPO (300171) checkbox level 1 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on AS AGENT REPO (300171) checkbox level 1 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for APEMCT-HK (102147) checkbox level 1 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on APEMCT-HK (102147) checkbox level 1 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for AS AGENT REPO (300171) filter on Home Page to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for APEMCT-HK (102147) filter on Home Page to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC14 is PASS]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Button Add Rule element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Independent Risk Unit - Credit Org checkbox option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Add Icon to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Add Icon element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for FIRM checkbox level 1 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on FIRM checkbox level 1 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for GIRM checkbox level 1 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on GIRM checkbox level 1 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for FIRM filter on Home Page to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for GIRM filter on Home Page to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC15 is PASS]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Button Add Rule element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Independent Risk Unit - Geography checkbox option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Add Icon to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Add Icon element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for EMEA checkbox level 1 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on EMEA checkbox level 1 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Level 1 Next Button to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Level 1 Next Button option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for ISRAEL checkbox level 2 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on ISRAEL checkbox level 2 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Level 2 Next Button to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Level 2 Next Button option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for ISRAEL checkbox level 3 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on ISRAEL checkbox level 3 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Level 3 Next Button to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Level 3 Next Button option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for ISRAEL checkbox level 4 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on ISRAEL checkbox level 4 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Button Close Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for ISRAEL filter on Home Page to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC16 is PASS]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Button Add Rule element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Geography At Risk checkbox option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Add Icon not present on page]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC17 is FAIL]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Button Add Rule element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Risk Management Industry checkbox option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Add Icon to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Add Icon element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Education checkbox level 1 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Education checkbox level 1 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Level 1 Next Button to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Level 1 Next Button option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Education Services checkbox level 2 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Education Services checkbox level 2 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Level 2 Next Button to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Level 2 Next Button option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Edu - Primary School checkbox level 3 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Edu - Primary School checkbox level 3 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Level 3 Next Button to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Level 3 Next Button option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Edu - Schools Grade K-12 - Private checkbox level 4 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Edu - Schools Grade K-12 - Private checkbox level 4 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Button Close Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Edu - Schools Grade K-12 - Private filter on Home Page to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC18 is PASS]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Button Add Rule element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Name checkbox option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Add Icon to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Add Icon element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for (IZ)QUEENCO LIMITED (1009174296) checkbox level 1 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on (IZ)QUEENCO LIMITED (1009174296) checkbox level 1 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for (IZ)QUEENCO LIMITED (1009174296) filter on Home Page to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC19 is PASS]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Button Add Rule element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Level 2 Client Owner checkbox option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Add Icon to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Add Icon element.]]>
+    </line>
+    <line>
+      <![CDATA[GT checkbox level 1 not present on page]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC2 is FAIL]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Button Add Rule element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Independent Risk Unit - Credit Coverage Area checkbox option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Add Icon to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Add Icon element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Banks checkbox level 1 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Banks checkbox level 1 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Banks filter on Home Page to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC20 is PASS]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Button Add Rule element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Control Unit - ID checkbox option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Add Icon to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Add Icon element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for AME HEALTH&LIFE INSU (107251) checkbox level 1 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on AME HEALTH&LIFE INSU (107251) checkbox level 1 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for CCB CTL RMU TW (106580) checkbox level 1 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on CCB CTL RMU TW (106580) checkbox level 1 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for CITI ADMIN SERV INC (107249) checkbox level 1 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on CITI ADMIN SERV INC (107249) checkbox level 1 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for AME HEALTH&LIFE INSU (107251) filter on Home Page to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for CCB CTL RMU TW (106580) filter on Home Page to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for CITI ADMIN SERV INC (107249) filter on Home Page to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC21 is PASS]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Button Add Rule element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Control Unit - Credit Org checkbox option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Add Icon to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Add Icon element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for GTS checkbox level 1 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on GTS checkbox level 1 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for RE checkbox level 1 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on RE checkbox level 1 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for GTS filter on Home Page to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for RE filter on Home Page to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC22 is PASS]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Button Add Rule element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Control Unit - Geography checkbox option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Add Icon to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Add Icon element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for EMEA checkbox level 1 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on EMEA checkbox level 1 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Level 1 Next Button to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Level 1 Next Button option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for ISRAEL checkbox level 2 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on ISRAEL checkbox level 2 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Level 2 Next Button to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Level 2 Next Button option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for ISRAEL checkbox level 3 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on ISRAEL checkbox level 3 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Level 3 Next Button to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Level 3 Next Button option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for ISRAEL checkbox level 4 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on ISRAEL checkbox level 4 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Button Close Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for ISRAEL filter on Home Page to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC23 is PASS]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Button Add Rule element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Geography At Risk checkbox option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Add Icon to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Add Icon element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for EMEA checkbox level 1 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on EMEA checkbox level 1 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Level 1 Next Button to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Level 1 Next Button option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for ISRAEL checkbox level 2 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on ISRAEL checkbox level 2 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Level 2 Next Button to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Level 2 Next Button option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for ISRAEL checkbox level 3 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on ISRAEL checkbox level 3 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Level 3 Next Button to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Level 3 Next Button option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for ISRAEL checkbox level 4 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on ISRAEL checkbox level 4 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Button Close Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for ISRAEL filter on Home Page to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC24 is PASS]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Button Add Rule element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Approving Unit - ID checkbox option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Add Icon to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Add Icon element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for AS AGENT REPO (300171) checkbox level 1 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on AS AGENT REPO (300171) checkbox level 1 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for APEMCT-HK (102147) checkbox level 1 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on APEMCT-HK (102147) checkbox level 1 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for AS AGENT REPO (300171) filter on Home Page to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for APEMCT-HK (102147) filter on Home Page to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC25 is PASS]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Button Add Rule element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Approving Unit - Geography checkbox option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Add Icon to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Add Icon element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for EMEA checkbox level 1 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on EMEA checkbox level 1 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Level 1 Next Button to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Level 1 Next Button option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for ISRAEL checkbox level 2 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on ISRAEL checkbox level 2 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Level 2 Next Button to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Level 2 Next Button option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for ISRAEL checkbox level 3 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on ISRAEL checkbox level 3 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Level 3 Next Button to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Level 3 Next Button option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for ISRAEL checkbox level 4 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on ISRAEL checkbox level 4 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Button Close Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for ISRAEL filter on Home Page to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC26 is PASS]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Button Add Rule element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Classification Status checkbox option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Add Icon to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Add Icon element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Pass checkbox level 1 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Pass checkbox level 1 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Loss checkbox level 1 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Loss checkbox level 1 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Pass filter on Home Page to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Loss filter on Home Page to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC27 is PASS]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Button Add Rule element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Extending Unit - ID checkbox option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Add Icon to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Add Icon element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for ACCIVAL - REPO (107200) checkbox level 1 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on ACCIVAL - REPO (107200) checkbox level 1 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for APEMCT-HK (102147) checkbox level 1 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on APEMCT-HK (102147) checkbox level 1 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for ACCIVAL - REPO (107200) filter on Home Page to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for APEMCT-HK (102147) filter on Home Page to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC28 is PASS]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Button Add Rule element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Exclude Liquidity Management checkbox option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Yes radio button Exclude Liquidity Management to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Yes radio button Exclude Liquidity Management option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Review Icon to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Review Icon element.]]>
+    </line>
+    <line>
+      <![CDATA[Top Exposures pop up header not present on page]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC29 is FAIL]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Button Add Rule element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Level 3 Client Owner checkbox option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Add Icon to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Add Icon element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for CITI checkbox level 1 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on CITI checkbox level 1 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for CITI filter on Home Page to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC3 is PASS]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Button Add Rule element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Extending Unit - Geography checkbox option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Add Icon to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Add Icon element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for EMEA checkbox level 1 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on EMEA checkbox level 1 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Level 1 Next Button to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Level 1 Next Button option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for ISRAEL checkbox level 2 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on ISRAEL checkbox level 2 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Level 2 Next Button to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Level 2 Next Button option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for ISRAEL checkbox level 3 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on ISRAEL checkbox level 3 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Level 3 Next Button to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Level 3 Next Button option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for ISRAEL checkbox level 4 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on ISRAEL checkbox level 4 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Button Close Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for ISRAEL filter on Home Page to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC30 is PASS]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Button Add Rule element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Credit Program Specialized Product Name checkbox option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Add Icon to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Add Icon element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for BILLS NEGOTIATED checkbox level 1 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on BILLS NEGOTIATED checkbox level 1 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for CHEQUES PURCHASED checkbox level 1 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on CHEQUES PURCHASED checkbox level 1 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for BILLS NEGOTIATED filter on Home Page to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for CHEQUES PURCHASED filter on Home Page to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC31 is PASS]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Button Add Rule element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Long Description checkbox option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Add Icon to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Add Icon element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for BILLS NEGOTIATED checkbox level 1 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on BILLS NEGOTIATED checkbox level 1 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for CHEQUES PURCHASED checkbox level 1 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on CHEQUES PURCHASED checkbox level 1 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for BILLS NEGOTIATED filter on Home Page to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for CHEQUES PURCHASED filter on Home Page to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC32 is PASS]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Button Add Rule element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Include Intercompany checkbox option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Yes radio button Include Intercompany to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Yes radio button Include Intercompany option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Review Icon to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Review Icon element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Top Exposures pop up header to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Top Exposures pop up first cell data to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC33 is PASS]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Button Add Rule element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Include Leveraged Lending Exposures checkbox option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Add Icon to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Add Icon element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Direct Leveraged Lending, Core Dive checkbox level 1 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Direct Leveraged Lending, Core Dive checkbox level 1 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Direct Leveraged Lending, Core Dive filter on Home Page to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC34 is PASS]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Button Add Rule element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Product Program checkbox option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Add Icon to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Add Icon element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Law Firm Finance checkbox level 1 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Law Firm Finance checkbox level 1 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Lawyer Financing checkbox level 1 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Lawyer Financing checkbox level 1 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Law Firm Finance filter on Home Page to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Lawyer Financing filter on Home Page to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC35 is PASS]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Button Add Rule element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Exclude Fronting checkbox option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Yes radio button Exclude Fronting to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Yes radio button Exclude Fronting option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Review Icon to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Review Icon element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Top Exposures pop up header to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Top Exposures pop up first cell data to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC4 is PASS]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Button Add Rule element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Legal Vehicle checkbox option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Add Icon to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Add Icon element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for 089ELIM (EM090) checkbox level 1 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on 089ELIM (EM090) checkbox level 1 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for 089ELIM (EM090) filter on Home Page to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC5 is PASS]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Button Add Rule element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Legal Entity checkbox option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Add Icon to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Add Icon element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for AO CITIBANK (1001349844) checkbox level 1 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on AO CITIBANK (1001349844) checkbox level 1 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for AO CITIBANK (1001349844) filter on Home Page to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC6 is PASS]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Button Add Rule element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Management Product Level checkbox option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Add Icon to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Add Icon element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Commodities (20200990000) checkbox level 1 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Commodities (20200990000) checkbox level 1 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Commodities (20200990000) filter on Home Page to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC7 is PASS]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Button Add Rule element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Managed Segment checkbox option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Add Icon to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Add Icon element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Admin [L6] (23920) checkbox level 1 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Admin [L6] (23920) checkbox level 1 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Admin [L6] (23920) filter on Home Page to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC8 is PASS]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Button Add Rule element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on OS GOC Managed Segment L6 Name checkbox option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for Add Icon to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Add Icon element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for CAO O&T Admin [L6] (23417) checkbox level 1 to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on CAO O&T Admin [L6] (23417) checkbox level 1 option on tree.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+    </line>
+    <line>
+      <![CDATA[Successfully waited for CAO O&T Admin [L6] (23417) filter on Home Page to be present on page]]>
+    </line>
+    <line>
+      <![CDATA[SanityTC9 is PASS]]>
+    </line>
+  </reporter-output>
+  <suite name="Sanity" duration-ms="871648" started-at="2018-09-27T08:12:21Z" finished-at="2018-09-27T08:26:53Z">
+    <groups>
+    </groups>
+    <test name="Sanity1" duration-ms="871648" started-at="2018-09-27T08:12:21Z" finished-at="2018-09-27T08:26:53Z">
+      <class name="testcases.Sanity">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testcases.Sanity@2b552920]" name="setUp" is-config="true" duration-ms="476" started-at="2018-09-27T04:12:21Z" finished-at="2018-09-27T04:12:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="SanityTC1(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920]" name="SanityTC1" duration-ms="25471" started-at="2018-09-27T04:12:22Z" data-provider="Sanity" finished-at="2018-09-27T04:12:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Control Unit - Geography, CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Control Unit - Geography, Level1=Latin America|Brazil|Brazil|BRAZIL, Filtername=, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=Click Add Rule, select Control Unit - Geography. Level 1 - Latin America, Level 2 - Brazil, Level 3 - Brazil, Level 4 _- Brazil, ExpectedResult=Level 1 - Latin America
+Level 2 - Brazil 
+Level 3 - Brazil 
+Level 4 - Brazil}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Button Add Rule element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Control Unit - Geography checkbox option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Add Icon to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Add Icon element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Latin America checkbox level 1 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Latin America checkbox level 1 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Level 1 Next Button to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Level 1 Next Button option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Brazil checkbox level 2 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Brazil checkbox level 2 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Level 2 Next Button to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Level 2 Next Button option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Brazil checkbox level 3 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Brazil checkbox level 3 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Level 3 Next Button to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Level 3 Next Button option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for BRAZIL checkbox level 4 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on BRAZIL checkbox level 4 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Button Close Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for BRAZIL filter on Home Page to be present on page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SanityTC1 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Sanity@2b552920]" name="reporterDataResults" is-config="true" duration-ms="617" started-at="2018-09-27T04:12:47Z" finished-at="2018-09-27T04:12:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC1 status=SUCCESS method=Sanity.SanityTC1(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920] output=Successfully waited for Button Add Rule to be present on page]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC1 is PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="PASS" signature="SanityTC10(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920]" name="SanityTC10" duration-ms="13565" started-at="2018-09-27T04:12:48Z" data-provider="Sanity" finished-at="2018-09-27T04:13:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Portfolio Business Segment (PBS), CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Portfolio Business Segment (PBS), Level1=, Filtername=TREASURY, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Portfolio Business Segment (PBS)" from Exposure Category
+3. Click Add filters (+) and select "TREASURY", ExpectedResult=Portfolio Business Segment (PBS) Dialog should have the value 
+TREASURY}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Button Add Rule element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Portfolio Business Segment (PBS) checkbox option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Add Icon to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Add Icon element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for TREASURY checkbox level 1 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on TREASURY checkbox level 1 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for TREASURY filter on Home Page to be present on page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SanityTC10 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Sanity@2b552920]" name="reporterDataResults" is-config="true" duration-ms="610" started-at="2018-09-27T04:13:02Z" finished-at="2018-09-27T04:13:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC10 status=SUCCESS method=Sanity.SanityTC10(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920] output=Successfully waited for Button Add Rule to be present on page]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC10 is PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="PASS" signature="SanityTC11(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920]" name="SanityTC11" duration-ms="23547" started-at="2018-09-27T04:13:02Z" data-provider="Sanity" finished-at="2018-09-27T04:13:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=GFMIS Product , CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=GFMIS Product, Level1=Best Efforts Distribution|Best Efforts Distribution|Best Efforts Distribution|Best Efforts Distribution, Filtername=, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "GFMIS Product " from Exposure Category
+3. Click Add filters (+) and select "Best Efforts Distribution" in all 4 levels, ExpectedResult=GFMIS Product Dialog should have the value 
+Level1 - Best Efforts Distribution
+Level2 - Best Efforts Distribution
+Level3 - Best Efforts Distribution
+Level4 - Best Efforts Distribution}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Button Add Rule element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on GFMIS Product checkbox option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Add Icon to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Add Icon element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Best Efforts Distribution checkbox level 1 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Best Efforts Distribution checkbox level 1 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Level 1 Next Button to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Level 1 Next Button option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Best Efforts Distribution checkbox level 2 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Best Efforts Distribution checkbox level 2 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Level 2 Next Button to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Level 2 Next Button option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Best Efforts Distribution checkbox level 3 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Best Efforts Distribution checkbox level 3 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Level 3 Next Button to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Level 3 Next Button option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Best Efforts Distribution checkbox level 4 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Best Efforts Distribution checkbox level 4 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Button Close Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Best Efforts Distribution filter on Home Page to be present on page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SanityTC11 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Sanity@2b552920]" name="reporterDataResults" is-config="true" duration-ms="611" started-at="2018-09-27T04:13:26Z" finished-at="2018-09-27T04:13:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC11 status=SUCCESS method=Sanity.SanityTC11(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920] output=Successfully waited for Button Add Rule to be present on page]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC11 is PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="PASS" signature="SanityTC12(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920]" name="SanityTC12" duration-ms="28504" started-at="2018-09-27T04:13:26Z" data-provider="Sanity" finished-at="2018-09-27T04:13:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=GOC, CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=GOC, Level1=, Filtername=#06-0012 AVON CO (EO27060012), TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select GOC from Exposure Category
+3. Click Add filters (+) and select "#06-0012 AVON CO (EO27060012)", ExpectedResult=GOC Dialog should have the value 
+#06-0012 AVON CO (EO27060012)}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Button Add Rule element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on GOC checkbox option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Add Icon to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Add Icon element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for #06-0012 AVON CO (EO27060012) checkbox level 1 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on #06-0012 AVON CO (EO27060012) checkbox level 1 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for #06-0012 AVON CO (EO27060012) filter on Home Page to be present on page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SanityTC12 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Sanity@2b552920]" name="reporterDataResults" is-config="true" duration-ms="613" started-at="2018-09-27T04:13:55Z" finished-at="2018-09-27T04:13:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC12 status=SUCCESS method=Sanity.SanityTC12(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920] output=Successfully waited for Button Add Rule to be present on page]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC12 is PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="PASS" signature="SanityTC13(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920]" name="SanityTC13" duration-ms="13480" started-at="2018-09-27T04:13:56Z" data-provider="Sanity" finished-at="2018-09-27T04:14:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=GOC Enriched Country, CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=GOC Enriched Country, Level1=, Filtername=AUSTRALIA, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "GOC Enriched Country" from Exposure Category
+3. Click Add filters (+) and select "AUSTRALIA", ExpectedResult=GOC Enriched Country Dialog should have the value AUSTRALIA}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Button Add Rule element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on GOC Enriched Country checkbox option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Add Icon to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Add Icon element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for AUSTRALIA checkbox level 1 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on AUSTRALIA checkbox level 1 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for AUSTRALIA filter on Home Page to be present on page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SanityTC13 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Sanity@2b552920]" name="reporterDataResults" is-config="true" duration-ms="838" started-at="2018-09-27T04:14:09Z" finished-at="2018-09-27T04:14:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC13 status=SUCCESS method=Sanity.SanityTC13(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920] output=Successfully waited for Button Add Rule to be present on page]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC13 is PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="PASS" signature="SanityTC14(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920]" name="SanityTC14" duration-ms="14226" started-at="2018-09-27T04:14:10Z" data-provider="Sanity" finished-at="2018-09-27T04:14:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Independent Risk Unit - ID , CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Independent Risk Unit - ID, Level1=, Filtername=AS AGENT REPO (300171)|APEMCT-HK (102147), TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Independent Risk Unit - ID" from Relationship Category
+3. Click Add filters (+) and select "AS AGENT REPO (300171)" from FIRM & "APEMCT-HK (102147)" from GIRM, ExpectedResult=Independent Risk Unit - ID Dialog should have the value "AS AGENT REPO (300171)" in FIRM & "APEMCT-HK (102147)" in GIRM}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Button Add Rule element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Independent Risk Unit - ID checkbox option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Add Icon to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Add Icon element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for AS AGENT REPO (300171) checkbox level 1 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on AS AGENT REPO (300171) checkbox level 1 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for APEMCT-HK (102147) checkbox level 1 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on APEMCT-HK (102147) checkbox level 1 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for AS AGENT REPO (300171) filter on Home Page to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for APEMCT-HK (102147) filter on Home Page to be present on page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SanityTC14 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Sanity@2b552920]" name="reporterDataResults" is-config="true" duration-ms="710" started-at="2018-09-27T04:14:24Z" finished-at="2018-09-27T04:14:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC14 status=SUCCESS method=Sanity.SanityTC14(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920] output=Successfully waited for Button Add Rule to be present on page]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC14 is PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="PASS" signature="SanityTC15(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920]" name="SanityTC15" duration-ms="14615" started-at="2018-09-27T04:14:25Z" data-provider="Sanity" finished-at="2018-09-27T04:14:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Independent Risk Unit - Credit Org, CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Independent Risk Unit - Credit Org, Level1=, Filtername=FIRM|GIRM, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Independent Risk Unit - Credit Org" from Relationship Category
+3. Click Add filters (+) and select "FIRM" & "GIRM", ExpectedResult=Independent Risk Unit - Credit Org Dialog should have the value "FIRM" and "GIRM"}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Button Add Rule element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Independent Risk Unit - Credit Org checkbox option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Add Icon to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Add Icon element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for FIRM checkbox level 1 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on FIRM checkbox level 1 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for GIRM checkbox level 1 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on GIRM checkbox level 1 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for FIRM filter on Home Page to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for GIRM filter on Home Page to be present on page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SanityTC15 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Sanity@2b552920]" name="reporterDataResults" is-config="true" duration-ms="625" started-at="2018-09-27T04:14:39Z" finished-at="2018-09-27T04:14:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC15 status=SUCCESS method=Sanity.SanityTC15(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920] output=Successfully waited for Button Add Rule to be present on page]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC15 is PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="PASS" signature="SanityTC16(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920]" name="SanityTC16" duration-ms="24463" started-at="2018-09-27T04:14:40Z" data-provider="Sanity" finished-at="2018-09-27T04:15:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Independent Risk Unit - Geography, CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Independent Risk Unit - Geography, Level1=EMEA|ISRAEL|ISRAEL|ISRAEL, Filtername=, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Independent Risk Unit - Geography" from Relationship Category
+3. Click Add filters (+) and select the following
+Level 1 - EMEA 
+Level 2 - ISRAEL
+Level 3 - ISRAEL
+Level 4 - ISRAEL, ExpectedResult=Independent Risk Unit - Geography Dialog should have the value 
+Level1 - EMAC
+Level2 - ISRAEL
+Level3 - ISRAEL
+Level4 - ISRAEL}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Button Add Rule element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Independent Risk Unit - Geography checkbox option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Add Icon to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Add Icon element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for EMEA checkbox level 1 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on EMEA checkbox level 1 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Level 1 Next Button to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Level 1 Next Button option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for ISRAEL checkbox level 2 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on ISRAEL checkbox level 2 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Level 2 Next Button to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Level 2 Next Button option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for ISRAEL checkbox level 3 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on ISRAEL checkbox level 3 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Level 3 Next Button to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Level 3 Next Button option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for ISRAEL checkbox level 4 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on ISRAEL checkbox level 4 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Button Close Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for ISRAEL filter on Home Page to be present on page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SanityTC16 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Sanity@2b552920]" name="reporterDataResults" is-config="true" duration-ms="612" started-at="2018-09-27T04:15:05Z" finished-at="2018-09-27T04:15:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC16 status=SUCCESS method=Sanity.SanityTC16(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920] output=Successfully waited for Button Add Rule to be present on page]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC16 is PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="FAIL" signature="SanityTC17(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920]" name="SanityTC17" duration-ms="41570" started-at="2018-09-27T04:15:05Z" data-provider="Sanity" finished-at="2018-09-27T04:15:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Geography At Risk, CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Geography At Risk, Level1=EMEA|ISRAEL|ISRAEL|ISRAEL, Filtername=, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Geography At Risk" from Relationship Category
+3. Click Add filters (+) and select the following
+Level 1 - EMEA 
+Level 2 - ISRAEL
+Level 3 - ISRAEL
+Level 4 - ISRAEL, ExpectedResult=Geography At Risk Dialog should have the value 
+Level1 - EMAC
+Level2 - ISRAEL
+Level3 - ISRAEL
+Level4 - ISRAEL}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: null
+	at org.testng.Assert.fail(Assert.java:93)
+	at org.testng.Assert.fail(Assert.java:100)
+	at utility.SeleniumUtils.waitForElementPresent(SeleniumUtils.java:550)
+	at pageobjects.HomePage.checkLevel(HomePage.java:210)
+	at testcases.Sanity.SanityTC17(Sanity.java:347)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:281)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:121)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:290)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:242)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:121)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Button Add Rule element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Geography At Risk checkbox option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Add Icon not present on page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SanityTC17 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Sanity@2b552920]" name="reporterDataResults" is-config="true" duration-ms="973" started-at="2018-09-27T04:15:47Z" finished-at="2018-09-27T04:15:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC17 status=FAILURE method=Sanity.SanityTC17(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920] output=Successfully waited for Button Add Rule to be present on page]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC17 is FAIL]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="PASS" signature="SanityTC18(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920]" name="SanityTC18" duration-ms="25782" started-at="2018-09-27T04:15:48Z" data-provider="Sanity" finished-at="2018-09-27T04:16:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Risk Management Industry, CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Risk Management Industry, Level1=Education|Education Services|Edu - Primary School|Edu - Schools Grade K-12 - Private, Filtername=, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Risk Management Industry" from Relationship Category
+3. Click Add filters (+) and select the following
+Level 1 - Education
+Level 2 - Education Services
+Level 3 - Edu - Primary School
+Level 4 - Edu - Schools Grade K-12 - Private, ExpectedResult=Risk Management Industry Dialog should have the value 
+Level 1 - Education
+Level 2 - Education Services
+Level 3 - Edu - Primary School
+Level 4 - Edu - Schools Grade K-12 - Private}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Button Add Rule element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Risk Management Industry checkbox option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Add Icon to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Add Icon element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Education checkbox level 1 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Education checkbox level 1 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Level 1 Next Button to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Level 1 Next Button option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Education Services checkbox level 2 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Education Services checkbox level 2 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Level 2 Next Button to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Level 2 Next Button option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Edu - Primary School checkbox level 3 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Edu - Primary School checkbox level 3 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Level 3 Next Button to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Level 3 Next Button option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Edu - Schools Grade K-12 - Private checkbox level 4 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Edu - Schools Grade K-12 - Private checkbox level 4 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Button Close Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Edu - Schools Grade K-12 - Private filter on Home Page to be present on page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SanityTC18 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Sanity@2b552920]" name="reporterDataResults" is-config="true" duration-ms="615" started-at="2018-09-27T04:16:14Z" finished-at="2018-09-27T04:16:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC18 status=SUCCESS method=Sanity.SanityTC18(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920] output=Successfully waited for Button Add Rule to be present on page]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC18 is PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="PASS" signature="SanityTC19(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920]" name="SanityTC19" duration-ms="59059" started-at="2018-09-27T04:16:14Z" data-provider="Sanity" finished-at="2018-09-27T04:17:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Name, CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Name, Level1=, Filtername=(IZ)QUEENCO LIMITED (1009174296), TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select Name from Relationship Category
+3. Click Add filters (+) and select "(IZ)QUEENCO LIMITED (1009174296)", ExpectedResult=Name Dialog should have the value (IZ)QUEENCO LIMITED (1009174296)}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Button Add Rule element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Name checkbox option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Add Icon to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Add Icon element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for (IZ)QUEENCO LIMITED (1009174296) checkbox level 1 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on (IZ)QUEENCO LIMITED (1009174296) checkbox level 1 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for (IZ)QUEENCO LIMITED (1009174296) filter on Home Page to be present on page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SanityTC19 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Sanity@2b552920]" name="reporterDataResults" is-config="true" duration-ms="683" started-at="2018-09-27T04:17:13Z" finished-at="2018-09-27T04:17:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC19 status=SUCCESS method=Sanity.SanityTC19(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920] output=Successfully waited for Button Add Rule to be present on page]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC19 is PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="FAIL" signature="SanityTC2(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920]" name="SanityTC2" duration-ms="72297" started-at="2018-09-27T04:17:14Z" data-provider="Sanity" finished-at="2018-09-27T04:18:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Level 2 Client Owner, CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Level 2 Client Owner, Level1=, Filtername=GT, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Level 2 Client Owner" from CIS Hierarchy Category
+3. Click Add filters (+) and select GT, ExpectedResult=Level 2 Client Owner Dialog should have the value GT}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: null
+	at org.testng.Assert.fail(Assert.java:93)
+	at org.testng.Assert.fail(Assert.java:100)
+	at utility.SeleniumUtils.waitForElementPresent(SeleniumUtils.java:565)
+	at pageobjects.HomePage.filtersCheck(HomePage.java:80)
+	at testcases.Sanity.SanityTC2(Sanity.java:76)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:281)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:121)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:290)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:242)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:121)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Button Add Rule element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Level 2 Client Owner checkbox option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Add Icon to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Add Icon element.]]>
+            </line>
+            <line>
+              <![CDATA[GT checkbox level 1 not present on page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SanityTC2 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Sanity@2b552920]" name="reporterDataResults" is-config="true" duration-ms="999" started-at="2018-09-27T04:18:26Z" finished-at="2018-09-27T04:18:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC2 status=FAILURE method=Sanity.SanityTC2(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920] output=Successfully waited for Button Add Rule to be present on page]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC2 is FAIL]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="PASS" signature="SanityTC20(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920]" name="SanityTC20" duration-ms="14212" started-at="2018-09-27T04:18:27Z" data-provider="Sanity" finished-at="2018-09-27T04:18:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Independent Risk Unit - Credit Coverage Area, CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Independent Risk Unit - Credit Coverage Area, Level1=, Filtername=Banks, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Independent Risk Unit - Credit Coverage Area"  from Relationship Category
+3. Click Add filters (+) and select Banks, ExpectedResult=Independent Risk Unit - Credit Coverage Area Dialog should have the value Banks}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Button Add Rule element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Independent Risk Unit - Credit Coverage Area checkbox option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Add Icon to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Add Icon element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Banks checkbox level 1 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Banks checkbox level 1 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Banks filter on Home Page to be present on page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SanityTC20 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Sanity@2b552920]" name="reporterDataResults" is-config="true" duration-ms="606" started-at="2018-09-27T04:18:41Z" finished-at="2018-09-27T04:18:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC20 status=SUCCESS method=Sanity.SanityTC20(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920] output=Successfully waited for Button Add Rule to be present on page]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC20 is PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="PASS" signature="SanityTC21(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920]" name="SanityTC21" duration-ms="14689" started-at="2018-09-27T04:18:42Z" data-provider="Sanity" finished-at="2018-09-27T04:18:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Control Unit - ID , CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Control Unit - ID, Level1=, Filtername=AME HEALTH&LIFE INSU (107251)|CCB CTL RMU TW (106580)|CITI ADMIN SERV INC (107249), TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Control Unit - ID "  from Obligor Category
+3. Click Add filters (+) and select "AME HEALTH&LIFE INSU (107251)", "CCB CTL RMU TW (106580)", "CITI ADMIN SERV INC (107249)"  from BANKING BK, ExpectedResult=Control Unit - ID Dialog should have the value "AME HEALTH&LIFE INSU (107251)", "CCB CTL RMU TW (106580)", "CITI ADMIN SERV INC (107249)"}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Button Add Rule element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Control Unit - ID checkbox option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Add Icon to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Add Icon element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for AME HEALTH&LIFE INSU (107251) checkbox level 1 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on AME HEALTH&LIFE INSU (107251) checkbox level 1 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for CCB CTL RMU TW (106580) checkbox level 1 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on CCB CTL RMU TW (106580) checkbox level 1 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for CITI ADMIN SERV INC (107249) checkbox level 1 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on CITI ADMIN SERV INC (107249) checkbox level 1 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for AME HEALTH&LIFE INSU (107251) filter on Home Page to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for CCB CTL RMU TW (106580) filter on Home Page to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for CITI ADMIN SERV INC (107249) filter on Home Page to be present on page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SanityTC21 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Sanity@2b552920]" name="reporterDataResults" is-config="true" duration-ms="631" started-at="2018-09-27T04:18:57Z" finished-at="2018-09-27T04:18:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC21 status=SUCCESS method=Sanity.SanityTC21(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920] output=Successfully waited for Button Add Rule to be present on page]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC21 is PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="PASS" signature="SanityTC22(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920]" name="SanityTC22" duration-ms="14536" started-at="2018-09-27T04:18:57Z" data-provider="Sanity" finished-at="2018-09-27T04:19:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Control Unit - Credit Org, CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Control Unit - Credit Org, Level1=, Filtername=GTS|RE, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Control Unit - Credit Org "  from Obligor Category
+3. Click Add filters (+) and select "GTS", "RE" , ExpectedResult=Control Unit - Credit Org Dialog should have the value "GTS", "RE" }]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Button Add Rule element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Control Unit - Credit Org checkbox option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Add Icon to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Add Icon element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for GTS checkbox level 1 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on GTS checkbox level 1 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for RE checkbox level 1 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on RE checkbox level 1 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for GTS filter on Home Page to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for RE filter on Home Page to be present on page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SanityTC22 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Sanity@2b552920]" name="reporterDataResults" is-config="true" duration-ms="607" started-at="2018-09-27T04:19:12Z" finished-at="2018-09-27T04:19:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC22 status=SUCCESS method=Sanity.SanityTC22(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920] output=Successfully waited for Button Add Rule to be present on page]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC22 is PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="PASS" signature="SanityTC23(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920]" name="SanityTC23" duration-ms="24166" started-at="2018-09-27T04:19:13Z" data-provider="Sanity" finished-at="2018-09-27T04:19:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Control Unit - Geography , CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Control Unit - Geography, Level1=EMEA|ISRAEL|ISRAEL|ISRAEL, Filtername=, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Control Unit - Geography" from Obligor Category
+3. Click Add filters (+) and select the following
+Level 1 - EMEA 
+Level 2 - ISRAEL
+Level 3 - ISRAEL
+Level 4 - ISRAEL, ExpectedResult=Control Unit - Geography Dialog should have the value 
+Level1 - EMAC
+Level2 - ISRAEL
+Level3 - ISRAEL
+Level4 - ISRAEL}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Button Add Rule element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Control Unit - Geography checkbox option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Add Icon to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Add Icon element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for EMEA checkbox level 1 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on EMEA checkbox level 1 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Level 1 Next Button to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Level 1 Next Button option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for ISRAEL checkbox level 2 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on ISRAEL checkbox level 2 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Level 2 Next Button to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Level 2 Next Button option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for ISRAEL checkbox level 3 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on ISRAEL checkbox level 3 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Level 3 Next Button to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Level 3 Next Button option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for ISRAEL checkbox level 4 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on ISRAEL checkbox level 4 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Button Close Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for ISRAEL filter on Home Page to be present on page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SanityTC23 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Sanity@2b552920]" name="reporterDataResults" is-config="true" duration-ms="610" started-at="2018-09-27T04:19:37Z" finished-at="2018-09-27T04:19:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC23 status=SUCCESS method=Sanity.SanityTC23(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920] output=Successfully waited for Button Add Rule to be present on page]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC23 is PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="PASS" signature="SanityTC24(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920]" name="SanityTC24" duration-ms="24756" started-at="2018-09-27T04:19:37Z" data-provider="Sanity" finished-at="2018-09-27T04:20:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Geography At Risk, CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Geography At Risk, Level1=EMEA|ISRAEL|ISRAEL|ISRAEL, Filtername=, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Geography At Risk" from Obligor Category
+3. Click Add filters (+) and select the following
+Level 1 - EMEA 
+Level 2 - ISRAEL
+Level 3 - ISRAEL
+Level 4 - ISRAEL, ExpectedResult=Geography At Risk Dialog should have the value 
+Level1 - EMAC
+Level2 - ISRAEL
+Level3 - ISRAEL
+Level4 - ISRAEL}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Button Add Rule element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Geography At Risk checkbox option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Add Icon to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Add Icon element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for EMEA checkbox level 1 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on EMEA checkbox level 1 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Level 1 Next Button to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Level 1 Next Button option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for ISRAEL checkbox level 2 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on ISRAEL checkbox level 2 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Level 2 Next Button to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Level 2 Next Button option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for ISRAEL checkbox level 3 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on ISRAEL checkbox level 3 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Level 3 Next Button to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Level 3 Next Button option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for ISRAEL checkbox level 4 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on ISRAEL checkbox level 4 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Button Close Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for ISRAEL filter on Home Page to be present on page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SanityTC24 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Sanity@2b552920]" name="reporterDataResults" is-config="true" duration-ms="623" started-at="2018-09-27T04:20:02Z" finished-at="2018-09-27T04:20:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC24 status=SUCCESS method=Sanity.SanityTC24(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920] output=Successfully waited for Button Add Rule to be present on page]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC24 is PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="PASS" signature="SanityTC25(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920]" name="SanityTC25" duration-ms="14942" started-at="2018-09-27T04:20:03Z" data-provider="Sanity" finished-at="2018-09-27T04:20:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Approving Unit - ID, CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Approving Unit - ID, Level1=, Filtername=AS AGENT REPO (300171)|APEMCT-HK (102147), TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Approving Unit - ID" from Facility Category
+3. Click Add filters (+) and select "AS AGENT REPO (300171)" from FIRM & "APEMCT-HK (102147)" from GIRM, ExpectedResult=Approving Unit - ID dialog should have the value "AS AGENT REPO (300171)" in FIRM & "APEMCT-HK (102147)" in GIRM}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Button Add Rule element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Approving Unit - ID checkbox option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Add Icon to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Add Icon element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for AS AGENT REPO (300171) checkbox level 1 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on AS AGENT REPO (300171) checkbox level 1 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for APEMCT-HK (102147) checkbox level 1 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on APEMCT-HK (102147) checkbox level 1 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for AS AGENT REPO (300171) filter on Home Page to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for APEMCT-HK (102147) filter on Home Page to be present on page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SanityTC25 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Sanity@2b552920]" name="reporterDataResults" is-config="true" duration-ms="602" started-at="2018-09-27T04:20:18Z" finished-at="2018-09-27T04:20:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC25 status=SUCCESS method=Sanity.SanityTC25(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920] output=Successfully waited for Button Add Rule to be present on page]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC25 is PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="PASS" signature="SanityTC26(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920]" name="SanityTC26" duration-ms="24578" started-at="2018-09-27T04:20:18Z" data-provider="Sanity" finished-at="2018-09-27T04:20:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Approving Unit - Geography, CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Approving Unit - Geography, Level1=EMEA|ISRAEL|ISRAEL|ISRAEL, Filtername=, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Approving Unit - Geography" from Facility Category
+3. Click Add filters (+) and select the following
+Level 1 - EMEA 
+Level 2 - ISRAEL
+Level 3 - ISRAEL
+Level 4 - ISRAEL, ExpectedResult=Approving Unit - Geography dialog should have the value 
+Level1 - EMAC
+Level2 - ISRAEL
+Level3 - ISRAEL
+Level4 - ISRAEL}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Button Add Rule element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Approving Unit - Geography checkbox option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Add Icon to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Add Icon element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for EMEA checkbox level 1 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on EMEA checkbox level 1 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Level 1 Next Button to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Level 1 Next Button option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for ISRAEL checkbox level 2 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on ISRAEL checkbox level 2 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Level 2 Next Button to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Level 2 Next Button option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for ISRAEL checkbox level 3 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on ISRAEL checkbox level 3 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Level 3 Next Button to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Level 3 Next Button option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for ISRAEL checkbox level 4 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on ISRAEL checkbox level 4 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Button Close Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for ISRAEL filter on Home Page to be present on page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SanityTC26 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Sanity@2b552920]" name="reporterDataResults" is-config="true" duration-ms="612" started-at="2018-09-27T04:20:43Z" finished-at="2018-09-27T04:20:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC26 status=SUCCESS method=Sanity.SanityTC26(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920] output=Successfully waited for Button Add Rule to be present on page]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC26 is PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="PASS" signature="SanityTC27(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920]" name="SanityTC27" duration-ms="15737" started-at="2018-09-27T04:20:43Z" data-provider="Sanity" finished-at="2018-09-27T04:20:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Classification Status, CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Classification Status, Level1=, Filtername=Pass|Loss, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Classification Status"  from Facility Category
+3. Click Add filters (+) and select "Pass", "Loss" , ExpectedResult=Classification Status dialog should have the value "Pass", "Loss" 
+}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Button Add Rule element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Classification Status checkbox option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Add Icon to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Add Icon element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Pass checkbox level 1 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Pass checkbox level 1 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Loss checkbox level 1 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Loss checkbox level 1 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Pass filter on Home Page to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Loss filter on Home Page to be present on page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SanityTC27 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Sanity@2b552920]" name="reporterDataResults" is-config="true" duration-ms="655" started-at="2018-09-27T04:20:59Z" finished-at="2018-09-27T04:21:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC27 status=SUCCESS method=Sanity.SanityTC27(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920] output=Successfully waited for Button Add Rule to be present on page]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC27 is PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="PASS" signature="SanityTC28(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920]" name="SanityTC28" duration-ms="17036" started-at="2018-09-27T04:21:00Z" data-provider="Sanity" finished-at="2018-09-27T04:21:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Extending Unit - ID, CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Extending Unit - ID, Level1=, Filtername=ACCIVAL - REPO (107200)|APEMCT-HK (102147), TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Extending Unit - ID" from Facility Category
+3. Click Add filters (+) and select "ACCIVAL - REPO (107200)" from FIRM & "APEMCT-HK (102147)" from GIRM, ExpectedResult=Extending Unit - ID dialog should have the value "ACCIVAL - REPO (107200)" in FIRM & "APEMCT-HK (102147)" in GIRM}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Button Add Rule element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Extending Unit - ID checkbox option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Add Icon to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Add Icon element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for ACCIVAL - REPO (107200) checkbox level 1 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on ACCIVAL - REPO (107200) checkbox level 1 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for APEMCT-HK (102147) checkbox level 1 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on APEMCT-HK (102147) checkbox level 1 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for ACCIVAL - REPO (107200) filter on Home Page to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for APEMCT-HK (102147) filter on Home Page to be present on page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SanityTC28 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Sanity@2b552920]" name="reporterDataResults" is-config="true" duration-ms="610" started-at="2018-09-27T04:21:17Z" finished-at="2018-09-27T04:21:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC28 status=SUCCESS method=Sanity.SanityTC28(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920] output=Successfully waited for Button Add Rule to be present on page]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC28 is PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="FAIL" signature="SanityTC29(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920]" name="SanityTC29" duration-ms="85834" started-at="2018-09-27T04:21:18Z" data-provider="Sanity" finished-at="2018-09-27T04:22:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Exclude Liquidity Management , CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Exclude Liquidity Management, Level1=, Filtername=, TestCaseDescription =check whether data the top exposure dialog is displayed, Steps to execute=1.Click Add Rule
+2. Select "Exclude Liquidity Management " from Facility Category
+3. select Yes and click Review Button on the right top corner, ExpectedResult=Top Exposures dialog box should be displayed}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: null
+	at org.testng.Assert.fail(Assert.java:93)
+	at org.testng.Assert.fail(Assert.java:100)
+	at utility.SeleniumUtils.waitForElementPresent(SeleniumUtils.java:550)
+	at pageobjects.HomePage.topExposuresPopupCheck(HomePage.java:106)
+	at testcases.Sanity.SanityTC29(Sanity.java:563)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:281)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:121)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:290)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:242)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:121)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Button Add Rule element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Exclude Liquidity Management checkbox option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Yes radio button Exclude Liquidity Management to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Yes radio button Exclude Liquidity Management option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Review Icon to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Review Icon element.]]>
+            </line>
+            <line>
+              <![CDATA[Top Exposures pop up header not present on page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SanityTC29 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Sanity@2b552920]" name="reporterDataResults" is-config="true" duration-ms="1001" started-at="2018-09-27T04:22:43Z" finished-at="2018-09-27T04:22:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC29 status=FAILURE method=Sanity.SanityTC29(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920] output=Successfully waited for Button Add Rule to be present on page]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC29 is FAIL]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="PASS" signature="SanityTC3(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920]" name="SanityTC3" duration-ms="15852" started-at="2018-09-27T04:22:44Z" data-provider="Sanity" finished-at="2018-09-27T04:23:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Level 3 Client Owner, CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Level 3 Client Owner, Level1=, Filtername=CITI, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Level 3 Client Owner" for CIS Hierarchy Category
+3. Click Add filters (+) and select CITI, ExpectedResult=Level 3 Client Owner Dialog should have the value CITI}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Button Add Rule element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Level 3 Client Owner checkbox option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Add Icon to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Add Icon element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for CITI checkbox level 1 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on CITI checkbox level 1 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for CITI filter on Home Page to be present on page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SanityTC3 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Sanity@2b552920]" name="reporterDataResults" is-config="true" duration-ms="713" started-at="2018-09-27T04:23:00Z" finished-at="2018-09-27T04:23:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC3 status=SUCCESS method=Sanity.SanityTC3(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920] output=Successfully waited for Button Add Rule to be present on page]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC3 is PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="PASS" signature="SanityTC30(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920]" name="SanityTC30" duration-ms="25389" started-at="2018-09-27T04:23:01Z" data-provider="Sanity" finished-at="2018-09-27T04:23:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Extending Unit - Geography , CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Extending Unit - Geography, Level1=EMEA|ISRAEL|ISRAEL|ISRAEL, Filtername=, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Extending Unit - Geography " from Facility Category
+3. Click Add filters (+) and select the following
+Level 1 - EMEA 
+Level 2 - ISRAEL
+Level 3 - ISRAEL
+Level 4 - ISRAEL, ExpectedResult=Extending Unit - Geography dialog should have the value 
+Level1 - EMAC
+Level2 - ISRAEL
+Level3 - ISRAEL
+Level4 - ISRAEL}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Button Add Rule element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Extending Unit - Geography checkbox option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Add Icon to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Add Icon element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for EMEA checkbox level 1 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on EMEA checkbox level 1 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Level 1 Next Button to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Level 1 Next Button option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for ISRAEL checkbox level 2 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on ISRAEL checkbox level 2 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Level 2 Next Button to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Level 2 Next Button option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for ISRAEL checkbox level 3 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on ISRAEL checkbox level 3 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Level 3 Next Button to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Level 3 Next Button option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for ISRAEL checkbox level 4 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on ISRAEL checkbox level 4 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Button Close Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for ISRAEL filter on Home Page to be present on page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SanityTC30 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Sanity@2b552920]" name="reporterDataResults" is-config="true" duration-ms="646" started-at="2018-09-27T04:23:26Z" finished-at="2018-09-27T04:23:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC30 status=SUCCESS method=Sanity.SanityTC30(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920] output=Successfully waited for Button Add Rule to be present on page]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC30 is PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="PASS" signature="SanityTC31(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920]" name="SanityTC31" duration-ms="15980" started-at="2018-09-27T04:23:27Z" data-provider="Sanity" finished-at="2018-09-27T04:23:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Credit Program Specialized Product Name, CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Credit Program Specialized Product Name, Level1=, Filtername=BILLS NEGOTIATED|CHEQUES PURCHASED, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Credit Program Specialized Product Name" from Facility Category
+3. Click Add filters (+) and select "BILLS NEGOTIATED" , "CHEQUES PURCHASED" , ExpectedResult=Credit Program Specialized Product Name dialog should have the value "BILLS NEGOTIATED" , "CHEQUES PURCHASED" }]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Button Add Rule element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Credit Program Specialized Product Name checkbox option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Add Icon to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Add Icon element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for BILLS NEGOTIATED checkbox level 1 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on BILLS NEGOTIATED checkbox level 1 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for CHEQUES PURCHASED checkbox level 1 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on CHEQUES PURCHASED checkbox level 1 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for BILLS NEGOTIATED filter on Home Page to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for CHEQUES PURCHASED filter on Home Page to be present on page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SanityTC31 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Sanity@2b552920]" name="reporterDataResults" is-config="true" duration-ms="603" started-at="2018-09-27T04:23:43Z" finished-at="2018-09-27T04:23:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC31 status=SUCCESS method=Sanity.SanityTC31(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920] output=Successfully waited for Button Add Rule to be present on page]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC31 is PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="PASS" signature="SanityTC32(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920]" name="SanityTC32" duration-ms="15809" started-at="2018-09-27T04:23:44Z" data-provider="Sanity" finished-at="2018-09-27T04:23:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Long Description , CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Long Description, Level1=, Filtername=BILLS NEGOTIATED|CHEQUES PURCHASED, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Long Description" from Facility Category
+3. Click Add filters (+) and select "BILLS NEGOTIATED" , "CHEQUES PURCHASED" , ExpectedResult=Long Description dialog should have the value "BILLS NEGOTIATED" , "CHEQUES PURCHASED" }]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Button Add Rule element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Long Description checkbox option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Add Icon to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Add Icon element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for BILLS NEGOTIATED checkbox level 1 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on BILLS NEGOTIATED checkbox level 1 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for CHEQUES PURCHASED checkbox level 1 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on CHEQUES PURCHASED checkbox level 1 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for BILLS NEGOTIATED filter on Home Page to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for CHEQUES PURCHASED filter on Home Page to be present on page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SanityTC32 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Sanity@2b552920]" name="reporterDataResults" is-config="true" duration-ms="760" started-at="2018-09-27T04:23:59Z" finished-at="2018-09-27T04:24:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC32 status=SUCCESS method=Sanity.SanityTC32(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920] output=Successfully waited for Button Add Rule to be present on page]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC32 is PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="PASS" signature="SanityTC33(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920]" name="SanityTC33" duration-ms="16905" started-at="2018-09-27T04:24:00Z" data-provider="Sanity" finished-at="2018-09-27T04:24:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Include Intercompany, CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Include Intercompany, Level1=, Filtername=, TestCaseDescription =check whether data the top exposure dialog is displayed, Steps to execute=1.Click Add Rule
+2. Select "Include Intercompany " from Facility Category
+3. select Yes and click Review Button on the right top corner, ExpectedResult=Top Exposures dialog box should be displayed}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Button Add Rule element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Include Intercompany checkbox option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Yes radio button Include Intercompany to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Yes radio button Include Intercompany option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Review Icon to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Review Icon element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Top Exposures pop up header to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Top Exposures pop up first cell data to be present on page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SanityTC33 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Sanity@2b552920]" name="reporterDataResults" is-config="true" duration-ms="650" started-at="2018-09-27T04:24:17Z" finished-at="2018-09-27T04:24:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC33 status=SUCCESS method=Sanity.SanityTC33(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920] output=Successfully waited for Button Add Rule to be present on page]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC33 is PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="PASS" signature="SanityTC34(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920]" name="SanityTC34" duration-ms="15925" started-at="2018-09-27T04:24:18Z" data-provider="Sanity" finished-at="2018-09-27T04:24:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Include Leveraged Lending Exposures, CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Include Leveraged Lending Exposures, Level1=, Filtername=Direct Leveraged Lending, Core Dive, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Include Leveraged Lending Exposures" from Facility Category
+3. Click Add filters (+) and select "Direct Leveraged Lending, Core Diversified exposure", ExpectedResult=Long Description dialog should have the value  "Direct Leveraged Lending, Core Diversified exposure"}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Button Add Rule element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Include Leveraged Lending Exposures checkbox option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Add Icon to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Add Icon element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Direct Leveraged Lending, Core Dive checkbox level 1 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Direct Leveraged Lending, Core Dive checkbox level 1 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Direct Leveraged Lending, Core Dive filter on Home Page to be present on page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SanityTC34 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Sanity@2b552920]" name="reporterDataResults" is-config="true" duration-ms="621" started-at="2018-09-27T04:24:34Z" finished-at="2018-09-27T04:24:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC34 status=SUCCESS method=Sanity.SanityTC34(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920] output=Successfully waited for Button Add Rule to be present on page]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC34 is PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="PASS" signature="SanityTC35(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920]" name="SanityTC35" duration-ms="15785" started-at="2018-09-27T04:24:34Z" data-provider="Sanity" finished-at="2018-09-27T04:24:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Product Program, CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Product Program, Level1=, Filtername=Law Firm Finance|Lawyer Financing, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Product Program" from Facility Category
+3. Click Add filters (+) and select "Law Firm Finance", "Lawyer Financing", ExpectedResult=Product Program dialog should have the value  "Law Firm Finance", "Lawyer Financing"}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Button Add Rule element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Product Program checkbox option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Add Icon to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Add Icon element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Law Firm Finance checkbox level 1 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Law Firm Finance checkbox level 1 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Lawyer Financing checkbox level 1 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Lawyer Financing checkbox level 1 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Law Firm Finance filter on Home Page to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Lawyer Financing filter on Home Page to be present on page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SanityTC35 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Sanity@2b552920]" name="reporterDataResults" is-config="true" duration-ms="629" started-at="2018-09-27T04:24:50Z" finished-at="2018-09-27T04:24:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC35 status=SUCCESS method=Sanity.SanityTC35(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920] output=Successfully waited for Button Add Rule to be present on page]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC35 is PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="PASS" signature="SanityTC4(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920]" name="SanityTC4" duration-ms="18896" started-at="2018-09-27T04:24:51Z" data-provider="Sanity" finished-at="2018-09-27T04:25:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Exclude Fronting, CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=PASS, AddRule=Exclude Fronting, Level1=, Filtername=, TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Exclude Fronting" from Exposure Category
+3. select Yes and click Review Button on the right top corner, ExpectedResult=Top Exposures dialog box should be displayed}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Button Add Rule element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Exclude Fronting checkbox option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Yes radio button Exclude Fronting to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Yes radio button Exclude Fronting option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Review Icon to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Review Icon element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Top Exposures pop up header to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Top Exposures pop up first cell data to be present on page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SanityTC4 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Sanity@2b552920]" name="reporterDataResults" is-config="true" duration-ms="647" started-at="2018-09-27T04:25:10Z" finished-at="2018-09-27T04:25:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC4 status=SUCCESS method=Sanity.SanityTC4(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920] output=Successfully waited for Button Add Rule to be present on page]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC4 is PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="PASS" signature="SanityTC5(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920]" name="SanityTC5" duration-ms="27286" started-at="2018-09-27T04:25:10Z" data-provider="Sanity" finished-at="2018-09-27T04:25:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Legal Vehicle , CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Legal Vehicle, Level1=, Filtername=089ELIM (EM090), TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Legal Vehicle" from Exposure Category
+3. Click Add filters (+) and select "089ELIM (EM090)", ExpectedResult=Legal Vehicle Dialog should have the value 089ELIM (EM090)}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Button Add Rule element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Legal Vehicle checkbox option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Add Icon to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Add Icon element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for 089ELIM (EM090) checkbox level 1 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on 089ELIM (EM090) checkbox level 1 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for 089ELIM (EM090) filter on Home Page to be present on page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SanityTC5 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Sanity@2b552920]" name="reporterDataResults" is-config="true" duration-ms="608" started-at="2018-09-27T04:25:37Z" finished-at="2018-09-27T04:25:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC5 status=SUCCESS method=Sanity.SanityTC5(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920] output=Successfully waited for Button Add Rule to be present on page]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC5 is PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="PASS" signature="SanityTC6(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920]" name="SanityTC6" duration-ms="16273" started-at="2018-09-27T04:25:38Z" data-provider="Sanity" finished-at="2018-09-27T04:25:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Legal Entity, CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Legal Entity, Level1=, Filtername=AO CITIBANK (1001349844), TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Legal Entity" from Exposure Category
+3. Click Add filters (+) and select "AO CITIBANK (1001349844)", ExpectedResult=Legal Entity Dialog should have the value AO CITIBANK (1001349844)}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Button Add Rule element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Legal Entity checkbox option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Add Icon to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Add Icon element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for AO CITIBANK (1001349844) checkbox level 1 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on AO CITIBANK (1001349844) checkbox level 1 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for AO CITIBANK (1001349844) filter on Home Page to be present on page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SanityTC6 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Sanity@2b552920]" name="reporterDataResults" is-config="true" duration-ms="642" started-at="2018-09-27T04:25:54Z" finished-at="2018-09-27T04:25:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC6 status=SUCCESS method=Sanity.SanityTC6(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920] output=Successfully waited for Button Add Rule to be present on page]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC6 is PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="PASS" signature="SanityTC7(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920]" name="SanityTC7" duration-ms="17531" started-at="2018-09-27T04:25:55Z" data-provider="Sanity" finished-at="2018-09-27T04:26:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Management Product Level, CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Management Product Level, Level1=, Filtername=Commodities (20200990000), TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Management Product Level" from Exposure Category
+3. Click Add filters (+) and select "Commodities (20200990000)", ExpectedResult=Management Product Level Dialog should have the value Commodities (20200990000)}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Button Add Rule element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Management Product Level checkbox option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Add Icon to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Add Icon element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Commodities (20200990000) checkbox level 1 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Commodities (20200990000) checkbox level 1 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Commodities (20200990000) filter on Home Page to be present on page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SanityTC7 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Sanity@2b552920]" name="reporterDataResults" is-config="true" duration-ms="612" started-at="2018-09-27T04:26:13Z" finished-at="2018-09-27T04:26:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC7 status=SUCCESS method=Sanity.SanityTC7(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920] output=Successfully waited for Button Add Rule to be present on page]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC7 is PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="PASS" signature="SanityTC8(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920]" name="SanityTC8" duration-ms="22428" started-at="2018-09-27T04:26:13Z" data-provider="Sanity" finished-at="2018-09-27T04:26:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=Managed Segment , CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=Managed Segment, Level1=, Filtername=Admin [L6] (23920), TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "Managed Segment" from Exposure Category
+3. Click Add filters (+) and select "Admin [L6] (23920)", ExpectedResult=Managed Segment  Dialog should have the value Admin [L6] (23920)}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Button Add Rule element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Managed Segment checkbox option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Add Icon to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Add Icon element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Admin [L6] (23920) checkbox level 1 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Admin [L6] (23920) checkbox level 1 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Admin [L6] (23920) filter on Home Page to be present on page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SanityTC8 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Sanity@2b552920]" name="reporterDataResults" is-config="true" duration-ms="622" started-at="2018-09-27T04:26:36Z" finished-at="2018-09-27T04:26:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC8 status=SUCCESS method=Sanity.SanityTC8(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920] output=Successfully waited for Button Add Rule to be present on page]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC8 is PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="PASS" signature="SanityTC9(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920]" name="SanityTC9" duration-ms="16258" started-at="2018-09-27T04:26:36Z" data-provider="Sanity" finished-at="2018-09-27T04:26:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{TestCaseName=OS GOC Managed Segment L6 Name, CaseToRun=Y, Module=Portfolio, Pass/Fail/Skip=, AddRule=OS GOC Managed Segment L6 Name, Level1=, Filtername=CAO O&T Admin [L6] (23417), TestCaseDescription =check whether data is fetched from the backend service, Steps to execute=1.Click Add Rule
+2. Select "OS GOC Managed Segment L6 Name" from Exposure Category
+3. Click Add filters (+) and select "CAO O&T Admin [L6] (23417)", ExpectedResult=OS GOC Managed Segment L6 Name Dialog should have the value CAO O&T Admin [L6] (23417)}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully waited for Button Add Rule to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Button Add Rule element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Icon Forward to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on OS GOC Managed Segment L6 Name checkbox option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for Add Icon to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Add Icon element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for CAO O&T Admin [L6] (23417) checkbox level 1 to be present on page]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on CAO O&T Admin [L6] (23417) checkbox level 1 option on tree.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully clicked on Close Icon Add Rule Pop Up element.]]>
+            </line>
+            <line>
+              <![CDATA[Successfully waited for CAO O&T Admin [L6] (23417) filter on Home Page to be present on page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SanityTC9 -->
+        <test-method status="PASS" signature="reporterDataResults(org.testng.ITestResult)[pri:0, instance:testcases.Sanity@2b552920]" name="reporterDataResults" is-config="true" duration-ms="659" started-at="2018-09-27T04:26:52Z" finished-at="2018-09-27T04:26:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SanityTC9 status=SUCCESS method=Sanity.SanityTC9(java.util.LinkedHashMap)[pri:0, instance:testcases.Sanity@2b552920] output=Successfully waited for Button Add Rule to be present on page]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[SanityTC9 is PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- reporterDataResults -->
+        <test-method status="PASS" signature="aftersuite()[pri:0, instance:testcases.Sanity@2b552920]" name="aftersuite" is-config="true" duration-ms="0" started-at="2018-09-27T04:26:53Z" finished-at="2018-09-27T04:26:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuite -->
+      </class> <!-- testcases.Sanity -->
+    </test> <!-- Sanity1 -->
+  </suite> <!-- Sanity -->
+</testng-results>

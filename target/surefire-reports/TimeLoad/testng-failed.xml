@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="3" guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [TimeLoad]" parallel="tests">
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+    <listener class-name="utility.ScreenshotUtility"/>
+  </listeners>
+  <test name="Test2(failed)" parallel="tests">
+    <groups>
+      <run>
+        <include name="TimeLoad"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="testcases.Time_Load">
+        <methods>
+          <include name="Sanity_TC1" invocation-numbers="0"/>
+          <include name="reporterDataResults"/>
+          <include name="aftersuite"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- testcases.Time_Load -->
+    </classes>
+  </test> <!-- Test2(failed) -->
+</suite> <!-- Failed suite [TimeLoad] -->

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="872.976" tests="35" errors="0" skipped="0" failures="3">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Selenium\jdk1.8.0_31\jre\bin"/>
+    <property name="java.vm.version" value="25.31-b07"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Selenium\portfolio"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Selenium\portfolio"/>
+    <property name="java.runtime.version" value="1.8.0_31-b13"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Selenium\jdk1.8.0_31\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\ep56407\AppData\Local\Temp\2\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows Server 2012 R2"/>
+    <property name="classworlds.conf" value="C:\Selenium\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf1558168017223819524.tmp"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Selenium\jdk1.8.0_31\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Selenium/ani/eclipse/jre/bin/server;C:/Selenium/ani/eclipse/jre/bin;C:/Selenium/ani/eclipse/jre/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jre1.8.0_131\bin;C:\apache-maven-3.5.0\bin;C:\apache-maven-3.5.0;C:\Selenium\ani\eclipse;;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="6.3"/>
+    <property name="user.home" value="C:\Users\ep56407"/>
+    <property name="user.timezone" value="America/New_York"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="ep56407"/>
+    <property name="java.class.path" value="/C:/Selenium/ani/eclipse/plugins/org.eclipse.m2e.maven.runtime_1.6.2.20150902-0001/jars/plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Selenium\jdk1.8.0_31\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_31"/>
+    <property name="java.ext.dirs" value="C:\Selenium\jdk1.8.0_31\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Selenium\jdk1.8.0_31\jre\lib\resources.jar;C:\Selenium\jdk1.8.0_31\jre\lib\rt.jar;C:\Selenium\jdk1.8.0_31\jre\lib\sunrsasign.jar;C:\Selenium\jdk1.8.0_31\jre\lib\jsse.jar;C:\Selenium\jdk1.8.0_31\jre\lib\jce.jar;C:\Selenium\jdk1.8.0_31\jre\lib\charsets.jar;C:\Selenium\jdk1.8.0_31\jre\lib\jfr.jar;C:\Selenium\jdk1.8.0_31\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\Selenium\portfolio\EMBEDDED"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="SanityTC1" classname="testcases.Sanity" time="25.475"/>
+  <testcase name="SanityTC10" classname="testcases.Sanity" time="13.557"/>
+  <testcase name="SanityTC11" classname="testcases.Sanity" time="23.54"/>
+  <testcase name="SanityTC12" classname="testcases.Sanity" time="28.505"/>
+  <testcase name="SanityTC13" classname="testcases.Sanity" time="13.469"/>
+  <testcase name="SanityTC14" classname="testcases.Sanity" time="14.226"/>
+  <testcase name="SanityTC15" classname="testcases.Sanity" time="14.611"/>
+  <testcase name="SanityTC16" classname="testcases.Sanity" time="24.456"/>
+  <testcase name="SanityTC17" classname="testcases.Sanity" time="41.572">
+    <failure type="java.lang.AssertionError:">java.lang.AssertionError: null
+	at testcases.Sanity.SanityTC17(Sanity.java:347)
+</failure>
+    <system-out><![CDATA[ INFO [main] (Sanity.java:692) - SanityTC16 is PASS
+ INFO [main] (SuiteBase.java:115) - Chrome Driver Instance loaded successfully.
+ INFO [main] (SeleniumUtils.java:543) - Successfully waited for Button Add Rule to be present on page
+ INFO [main] (SeleniumUtils.java:70) - Successfully clicked on  Button Add Rule element.
+ INFO [main] (SeleniumUtils.java:543) - Successfully waited for Icon Forward to be present on page
+ INFO [main] (SeleniumUtils.java:91) - Successfully clicked on  Geography At Risk checkbox option on tree.
+ INFO [main] (SeleniumUtils.java:70) - Successfully clicked on  Close Icon Add Rule Pop Up element.
+ INFO [main] (SeleniumUtils.java:547) - Add Icon not present on page
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e) on port 20798
+Only local connections are allowed.
+Sep 27, 2018 4:15:06 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+  </testcase>
+  <testcase name="SanityTC18" classname="testcases.Sanity" time="25.78"/>
+  <testcase name="SanityTC19" classname="testcases.Sanity" time="59.06"/>
+  <testcase name="SanityTC2" classname="testcases.Sanity" time="72.295">
+    <failure type="java.lang.AssertionError:">java.lang.AssertionError: null
+	at testcases.Sanity.SanityTC2(Sanity.java:76)
+</failure>
+    <system-out><![CDATA[ INFO [main] (Sanity.java:692) - SanityTC19 is PASS
+ INFO [main] (SuiteBase.java:115) - Chrome Driver Instance loaded successfully.
+ INFO [main] (SeleniumUtils.java:543) - Successfully waited for Button Add Rule to be present on page
+ INFO [main] (SeleniumUtils.java:70) - Successfully clicked on  Button Add Rule element.
+ INFO [main] (SeleniumUtils.java:543) - Successfully waited for Icon Forward to be present on page
+ INFO [main] (SeleniumUtils.java:97) - Successfully clicked on  Level 2 Client Owner checkbox option on tree.
+ INFO [main] (SeleniumUtils.java:70) - Successfully clicked on  Close Icon Add Rule Pop Up element.
+ INFO [main] (SeleniumUtils.java:543) - Successfully waited for Add Icon to be present on page
+ INFO [main] (SeleniumUtils.java:70) - Successfully clicked on  Add Icon element.
+ INFO [main] (SeleniumUtils.java:562) - GT checkbox level 1 not present on page
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e) on port 1186
+Only local connections are allowed.
+Sep 27, 2018 4:17:15 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+  </testcase>
+  <testcase name="SanityTC20" classname="testcases.Sanity" time="14.212"/>
+  <testcase name="SanityTC21" classname="testcases.Sanity" time="14.684"/>
+  <testcase name="SanityTC22" classname="testcases.Sanity" time="14.533"/>
+  <testcase name="SanityTC23" classname="testcases.Sanity" time="24.161"/>
+  <testcase name="SanityTC24" classname="testcases.Sanity" time="24.753"/>
+  <testcase name="SanityTC25" classname="testcases.Sanity" time="14.937"/>
+  <testcase name="SanityTC26" classname="testcases.Sanity" time="24.579"/>
+  <testcase name="SanityTC27" classname="testcases.Sanity" time="15.732"/>
+  <testcase name="SanityTC28" classname="testcases.Sanity" time="17.026"/>
+  <testcase name="SanityTC29" classname="testcases.Sanity" time="85.835">
+    <failure type="java.lang.AssertionError:">java.lang.AssertionError: null
+	at testcases.Sanity.SanityTC29(Sanity.java:563)
+</failure>
+    <system-out><![CDATA[ INFO [main] (Sanity.java:692) - SanityTC28 is PASS
+ INFO [main] (SuiteBase.java:115) - Chrome Driver Instance loaded successfully.
+ INFO [main] (SeleniumUtils.java:543) - Successfully waited for Button Add Rule to be present on page
+ INFO [main] (SeleniumUtils.java:70) - Successfully clicked on  Button Add Rule element.
+ INFO [main] (SeleniumUtils.java:543) - Successfully waited for Icon Forward to be present on page
+ INFO [main] (SeleniumUtils.java:91) - Successfully clicked on  Exclude Liquidity Management checkbox option on tree.
+ INFO [main] (SeleniumUtils.java:70) - Successfully clicked on  Close Icon Add Rule Pop Up element.
+ INFO [main] (SeleniumUtils.java:573) - Successfully waited for Yes radio button Exclude Liquidity Management to be present on page
+ INFO [main] (SeleniumUtils.java:111) - Successfully clicked on  Yes radio button Exclude Liquidity Management option on tree.
+ INFO [main] (SeleniumUtils.java:543) - Successfully waited for Review Icon to be present on page
+ INFO [main] (SeleniumUtils.java:70) - Successfully clicked on  Review Icon element.
+ INFO [main] (SeleniumUtils.java:547) - Top Exposures pop up header not present on page
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e) on port 4731
+Only local connections are allowed.
+Sep 27, 2018 4:21:19 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+  </testcase>
+  <testcase name="SanityTC3" classname="testcases.Sanity" time="15.852"/>
+  <testcase name="SanityTC30" classname="testcases.Sanity" time="25.419"/>
+  <testcase name="SanityTC31" classname="testcases.Sanity" time="15.979"/>
+  <testcase name="SanityTC32" classname="testcases.Sanity" time="15.805"/>
+  <testcase name="SanityTC33" classname="testcases.Sanity" time="16.904"/>
+  <testcase name="SanityTC34" classname="testcases.Sanity" time="15.92"/>
+  <testcase name="SanityTC35" classname="testcases.Sanity" time="15.778"/>
+  <testcase name="SanityTC4" classname="testcases.Sanity" time="18.892"/>
+  <testcase name="SanityTC5" classname="testcases.Sanity" time="27.285"/>
+  <testcase name="SanityTC6" classname="testcases.Sanity" time="16.27"/>
+  <testcase name="SanityTC7" classname="testcases.Sanity" time="17.529"/>
+  <testcase name="SanityTC8" classname="testcases.Sanity" time="22.428"/>
+  <testcase name="SanityTC9" classname="testcases.Sanity" time="16.252"/>
+</testsuite>

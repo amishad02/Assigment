@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 35, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 872.976 sec <<< FAILURE! - in TestSuite
+SanityTC17(testcases.Sanity)  Time elapsed: 41.572 sec  <<< FAILURE!
+java.lang.AssertionError: null
+	at testcases.Sanity.SanityTC17(Sanity.java:347)
+
+SanityTC2(testcases.Sanity)  Time elapsed: 72.295 sec  <<< FAILURE!
+java.lang.AssertionError: null
+	at testcases.Sanity.SanityTC2(Sanity.java:76)
+
+SanityTC29(testcases.Sanity)  Time elapsed: 85.835 sec  <<< FAILURE!
+java.lang.AssertionError: null
+	at testcases.Sanity.SanityTC29(Sanity.java:563)
+

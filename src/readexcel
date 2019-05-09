@@ -1,16 +1,12 @@
-try
-        {
-            FileInputStream file = new FileInputStream(new File("howtodoinjava_demo.xlsx"));
- 
-            //Create Workbook instance holding reference to .xlsx file
-            XSSFWorkbook workbook = new XSSFWorkbook(file);
- 
-            //Get first/desired sheet from the workbook
-            XSSFSheet sheet = workbook.getSheetAt(0);
- 
+  XSSFSheet sheet = workbook.getSheetAt(0);
+            CreationHelper creationHelper = workbook.getCreationHelper();
+        	DataFormatter formatter = new DataFormatter();
+			FormulaEvaluator formulaEvaluator = creationHelper.createFormulaEvaluator();
+
             //Iterate through each rows one by one
             Iterator<Row> rowIterator = sheet.iterator();
             while (rowIterator.hasNext())
+            	
             {
                 Row row = rowIterator.next();
                 //For each row, iterate through all the columns
@@ -20,21 +16,16 @@ try
                 {
                     Cell cell = cellIterator.next();
                     //Check the cell type and format accordingly
-                    switch (cell.getCellType())
-                    {
-                        case Cell.CELL_TYPE_NUMERIC:
-                            System.out.print(cell.getNumericCellValue() + "t");
-                            break;
-                        case Cell.CELL_TYPE_STRING:
-                            System.out.print(cell.getStringCellValue() + "t");
-                            break;
-                    }
-                }
-                System.out.println("");
+                    CellStyle cellStyle = cell.getCellStyle();
+					String dataFormatString = cellStyle.getDataFormatString();
+
+					if (dataFormatString != null && dataFormatString.contains(";"))
+						cellStyle.setDataFormat(creationHelper.createDataFormat().getFormat(dataFormatString + ";"));
+
+					String cellContent = formatter.formatCellValue(cell, formulaEvaluator);
+					// To remove empty cell
+					if (cellContent != null && !cellContent.trim().isEmpty())
+						
+                    
+                  System.out.println(cellContent);
             }
-            file.close();
-        }
-        catch (Exception e)
-        {
-            e.printStackTrace();
-        }
